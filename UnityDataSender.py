@@ -1,8 +1,10 @@
 import socket
 import threading
 import time
+import sys
+import pyxid2
 
-def handle_unity_data():
+def handle_unity_data(cPod):
     server_socket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
     server_socket.bind(('localhost', 12346))  
     server_socket.listen(1)
@@ -16,6 +18,7 @@ def handle_unity_data():
         if data:
             stim_code = int(data.decode('utf-8'))
             print(f"Received stim code: {stim_code}")
+            send_stim_code(cPod, stim_code)
         
             # Check for termination code
             if stim_code == 9:
@@ -42,9 +45,26 @@ def simulate_unity_client():
     client_socket.sendall(b'0')
     client_socket.close()
 
+def connect_to_stim_device(dev_id=0):
+    """Connects to device for sending stim codes to EEG amplifier"""
+    devices = pyxid2.get_xid_devices()
+    if devices:
+        cPod = devices[dev_id]  # get the first device to use
+    else:
+        sys.exit("__CPOD_DEVICE_NOT_FOUND__")
+    
+    cPod.reset_timer()
+    cPod.set_pulse_duration(5)  # Example value, replace with actual
+    return cPod
+
+def send_stim_code(cPod, stimCode):
+    if cPod is not None:
+        cPod.activate_line(bitmask=stimCode)
+
 if __name__ == '__main__':
-    # Start the server in a separate thread
-    server_thread = threading.Thread(target=handle_unity_data)
+    cPod = connect_to_stim_device()
+
+    server_thread = threading.Thread(target=handle_unity_data, args=(cPod,))
     server_thread.start()
 
     # Simulate Unity client
