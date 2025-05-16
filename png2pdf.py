@@ -40,6 +40,6 @@ def convert_images_to_pdf(input_dir, output_dir):
                 print(f"Error processing {filename}: {e}")
 
 # Example usage
-input_directory = "/Users/AnhNgoc/Desktop/fyp_fig"
+input_directory = "/Users/AnhNgoc/Desktop/fyp_charts"
 output_directory = "/Users/AnhNgoc/Desktop/fyp_fig_pdf"
 convert_images_to_pdf(input_directory, output_directory)

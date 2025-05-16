@@ -1,0 +1,1747 @@
+Local Time: 2025-02-25 17:01:56.000398, TZ:Malay Peninsula Standard Time (GMT+08) 
+GMT Time: 2025-02-25 09:01:56.000000
+------------
+Experiment config parameters.
+============
+2025-02-25_170156_000398	Start experiment
+2025-02-25_170226_280697	 display and wait 2 seconds 
+2025-02-25_170228_291208	Start Biocal
+2025-02-25_170228_311098	------ Starting Biocal EEG -------
+2025-02-25_170230_696988	Biocal_eyes_closed
+2025-02-25_170300_910885	End Biocal_eyes_closed
+2025-02-25_170340_984738	Biocal_eyes_open
+2025-02-25_170411_192481	End Biocal_eyes_open
+2025-02-25_170411_192481	====== Finished Biocal EEG =========
+2025-02-25_170411_193612	Finished Biocal
+2025-02-25_170411_194741	 display and wait 4 seconds 
+2025-02-25_170415_208686	Start Demo & Task trials
+2025-02-25_170437_807693	Asked to continue After vide playback task
+2025-02-25_170450_200508	User pressed key to continue
+2025-02-25_170450_201791	Starting Session 0 - Continuous Motor Tasks (REST-ME & REST-MI)
+2025-02-25_170450_207289	 Trials: Motor_execution 
+2025-02-25_170450_210054	Starting Run 1
+2025-02-25_170450_210054	 display and wait 2 seconds 
+2025-02-25_170452_221102	Starting block 1
+2025-02-25_170452_222395	Starting REST-1
+2025-02-25_170459_636941	Finished REST-1
+2025-02-25_170459_636941	 Starting Motor_execution	1
+2025-02-25_170501_352851	 Finished Motor_execution	1
+2025-02-25_170501_352851	 Starting Motor_execution	2
+2025-02-25_170503_417026	 Finished Motor_execution	2
+2025-02-25_170503_417026	 Starting Motor_execution	3
+2025-02-25_170505_251441	 Finished Motor_execution	3
+2025-02-25_170505_251441	 Starting Motor_execution	4
+2025-02-25_170507_294852	 Finished Motor_execution	4
+2025-02-25_170507_294852	 Starting Motor_execution	5
+2025-02-25_170509_168521	 Finished Motor_execution	5
+2025-02-25_170509_168521	 Starting Motor_execution	6
+2025-02-25_170511_062683	 Finished Motor_execution	6
+2025-02-25_170511_062683	 display and wait 2 seconds 
+2025-02-25_170513_066972	Finished block 1
+2025-02-25_170513_070035	Starting block 2
+2025-02-25_170513_071525	Starting REST-2
+2025-02-25_170520_482762	Finished REST-2
+2025-02-25_170520_482762	 Starting Motor_execution	1
+2025-02-25_170522_432366	 Finished Motor_execution	1
+2025-02-25_170522_432366	 Starting Motor_execution	2
+2025-02-25_170524_327112	 Finished Motor_execution	2
+2025-02-25_170524_327112	 Starting Motor_execution	3
+2025-02-25_170526_250869	 Finished Motor_execution	3
+2025-02-25_170526_250869	 Starting Motor_execution	4
+2025-02-25_170528_035009	 Finished Motor_execution	4
+2025-02-25_170528_035009	 Starting Motor_execution	5
+2025-02-25_170530_028970	 Finished Motor_execution	5
+2025-02-25_170530_028970	 Starting Motor_execution	6
+2025-02-25_170531_952965	 Finished Motor_execution	6
+2025-02-25_170531_952965	 display and wait 2 seconds 
+2025-02-25_170533_956530	Finished block 2
+2025-02-25_170533_959327	Starting block 3
+2025-02-25_170533_960390	Starting REST-3
+2025-02-25_170541_369412	Finished REST-3
+2025-02-25_170541_369412	 Starting Motor_execution	1
+2025-02-25_170543_135889	 Finished Motor_execution	1
+2025-02-25_170543_135889	 Starting Motor_execution	2
+2025-02-25_170545_110664	 Finished Motor_execution	2
+2025-02-25_170545_110664	 Starting Motor_execution	3
+2025-02-25_170546_944489	 Finished Motor_execution	3
+2025-02-25_170546_944489	 Starting Motor_execution	4
+2025-02-25_170548_928266	 Finished Motor_execution	4
+2025-02-25_170548_928266	 Starting Motor_execution	5
+2025-02-25_170550_752089	 Finished Motor_execution	5
+2025-02-25_170550_752089	 Starting Motor_execution	6
+2025-02-25_170552_786805	 Finished Motor_execution	6
+2025-02-25_170552_786805	 display and wait 2 seconds 
+2025-02-25_170554_790093	Finished block 3
+2025-02-25_170554_794278	Starting block 4
+2025-02-25_170554_795293	Starting REST-4
+2025-02-25_170602_205713	Finished REST-4
+2025-02-25_170602_205713	 Starting Motor_execution	1
+2025-02-25_170603_899100	 Finished Motor_execution	1
+2025-02-25_170603_899100	 Starting Motor_execution	2
+2025-02-25_170605_712756	 Finished Motor_execution	2
+2025-02-25_170605_712756	 Starting Motor_execution	3
+2025-02-25_170607_716478	 Finished Motor_execution	3
+2025-02-25_170607_716478	 Starting Motor_execution	4
+2025-02-25_170609_690134	 Finished Motor_execution	4
+2025-02-25_170609_690134	 Starting Motor_execution	5
+2025-02-25_170611_823925	 Finished Motor_execution	5
+2025-02-25_170611_823925	 Starting Motor_execution	6
+2025-02-25_170613_807304	 Finished Motor_execution	6
+2025-02-25_170613_807304	 display and wait 2 seconds 
+2025-02-25_170615_810296	Finished block 4
+2025-02-25_170615_813751	Starting block 5
+2025-02-25_170615_816015	Starting REST-5
+2025-02-25_170623_231385	Finished REST-5
+2025-02-25_170623_231385	 Starting Motor_execution	1
+2025-02-25_170625_333144	 Finished Motor_execution	1
+2025-02-25_170625_333144	 Starting Motor_execution	2
+2025-02-25_170627_157404	 Finished Motor_execution	2
+2025-02-25_170627_157404	 Starting Motor_execution	3
+2025-02-25_170629_231640	 Finished Motor_execution	3
+2025-02-25_170629_231640	 Starting Motor_execution	4
+2025-02-25_170631_005769	 Finished Motor_execution	4
+2025-02-25_170631_005769	 Starting Motor_execution	5
+2025-02-25_170633_050275	 Finished Motor_execution	5
+2025-02-25_170633_050275	 Starting Motor_execution	6
+2025-02-25_170634_903835	 Finished Motor_execution	6
+2025-02-25_170634_903835	 display and wait 2 seconds 
+2025-02-25_170636_907944	Finished block 5
+2025-02-25_170636_911107	Starting block 6
+2025-02-25_170636_912160	Starting REST-6
+2025-02-25_170644_322403	Finished REST-6
+2025-02-25_170644_322403	 Starting Motor_execution	1
+2025-02-25_170646_097557	 Finished Motor_execution	1
+2025-02-25_170646_097557	 Starting Motor_execution	2
+2025-02-25_170648_091619	 Finished Motor_execution	2
+2025-02-25_170648_091619	 Starting Motor_execution	3
+2025-02-25_170650_096457	 Finished Motor_execution	3
+2025-02-25_170650_096457	 Starting Motor_execution	4
+2025-02-25_170651_760827	 Finished Motor_execution	4
+2025-02-25_170651_760827	 Starting Motor_execution	5
+2025-02-25_170653_495054	 Finished Motor_execution	5
+2025-02-25_170653_495054	 Starting Motor_execution	6
+2025-02-25_170655_629489	 Finished Motor_execution	6
+2025-02-25_170655_629489	 display and wait 2 seconds 
+2025-02-25_170657_633591	Finished block 6
+2025-02-25_170657_636679	Starting block 7
+2025-02-25_170657_639002	Starting REST-7
+2025-02-25_170705_047503	Finished REST-7
+2025-02-25_170705_047503	 Starting Motor_execution	1
+2025-02-25_170706_869216	 Finished Motor_execution	1
+2025-02-25_170706_869216	 Starting Motor_execution	2
+2025-02-25_170708_703866	 Finished Motor_execution	2
+2025-02-25_170708_703866	 Starting Motor_execution	3
+2025-02-25_170710_618781	 Finished Motor_execution	3
+2025-02-25_170710_618781	 Starting Motor_execution	4
+2025-02-25_170712_462521	 Finished Motor_execution	4
+2025-02-25_170712_462521	 Starting Motor_execution	5
+2025-02-25_170714_367818	 Finished Motor_execution	5
+2025-02-25_170714_367818	 Starting Motor_execution	6
+2025-02-25_170716_131921	 Finished Motor_execution	6
+2025-02-25_170716_131921	 display and wait 2 seconds 
+2025-02-25_170718_136411	Finished block 7
+2025-02-25_170718_138980	Starting block 8
+2025-02-25_170718_141047	Starting REST-8
+2025-02-25_170725_549316	Finished REST-8
+2025-02-25_170725_550342	 Starting Motor_execution	1
+2025-02-25_170727_289626	 Finished Motor_execution	1
+2025-02-25_170727_289626	 Starting Motor_execution	2
+2025-02-25_170729_232960	 Finished Motor_execution	2
+2025-02-25_170729_232960	 Starting Motor_execution	3
+2025-02-25_170731_147487	 Finished Motor_execution	3
+2025-02-25_170731_147487	 Starting Motor_execution	4
+2025-02-25_170733_202278	 Finished Motor_execution	4
+2025-02-25_170733_202278	 Starting Motor_execution	5
+2025-02-25_170735_287522	 Finished Motor_execution	5
+2025-02-25_170735_287522	 Starting Motor_execution	6
+2025-02-25_170737_063780	 Finished Motor_execution	6
+2025-02-25_170737_063780	 display and wait 2 seconds 
+2025-02-25_170739_067262	Finished block 8
+2025-02-25_170739_070529	Starting block 9
+2025-02-25_170739_072576	Starting REST-9
+2025-02-25_170746_482368	Finished REST-9
+2025-02-25_170746_482368	 Starting Motor_execution	1
+2025-02-25_170748_253170	 Finished Motor_execution	1
+2025-02-25_170748_253170	 Starting Motor_execution	2
+2025-02-25_170750_327238	 Finished Motor_execution	2
+2025-02-25_170750_327238	 Starting Motor_execution	3
+2025-02-25_170752_211737	 Finished Motor_execution	3
+2025-02-25_170752_211737	 Starting Motor_execution	4
+2025-02-25_170754_076672	 Finished Motor_execution	4
+2025-02-25_170754_076672	 Starting Motor_execution	5
+2025-02-25_170756_070504	 Finished Motor_execution	5
+2025-02-25_170756_070504	 Starting Motor_execution	6
+2025-02-25_170758_194436	 Finished Motor_execution	6
+2025-02-25_170758_194436	 display and wait 2 seconds 
+2025-02-25_170800_197526	Finished block 9
+2025-02-25_170800_201127	Starting block 10
+2025-02-25_170800_203160	Starting REST-10
+2025-02-25_170807_615887	Finished REST-10
+2025-02-25_170807_615887	 Starting Motor_execution	1
+2025-02-25_170809_476102	 Finished Motor_execution	1
+2025-02-25_170809_476102	 Starting Motor_execution	2
+2025-02-25_170811_270593	 Finished Motor_execution	2
+2025-02-25_170811_270593	 Starting Motor_execution	3
+2025-02-25_170812_984638	 Finished Motor_execution	3
+2025-02-25_170812_984638	 Starting Motor_execution	4
+2025-02-25_170814_998252	 Finished Motor_execution	4
+2025-02-25_170814_998252	 Starting Motor_execution	5
+2025-02-25_170816_852857	 Finished Motor_execution	5
+2025-02-25_170816_852857	 Starting Motor_execution	6
+2025-02-25_170818_987422	 Finished Motor_execution	6
+2025-02-25_170818_987422	 display and wait 2 seconds 
+2025-02-25_170820_991349	Finished block 10
+2025-02-25_170820_993929	Finished Run 1
+2025-02-25_170820_994989	Asked to continue next Motor tasks Motor_execution 
+2025-02-25_170820_997017	 display and wait 1.0 seconds 
+2025-02-25_170827_496618	User pressed key to continue Motor_execution 
+2025-02-25_170827_500264	Starting Run 2
+2025-02-25_170827_500264	 display and wait 2 seconds 
+2025-02-25_170829_505637	Starting block 1
+2025-02-25_170829_507736	Starting REST-1
+2025-02-25_170836_916478	Finished REST-1
+2025-02-25_170836_916478	 Starting Motor_execution	1
+2025-02-25_170838_587045	 Finished Motor_execution	1
+2025-02-25_170838_587045	 Starting Motor_execution	2
+2025-02-25_170840_391324	 Finished Motor_execution	2
+2025-02-25_170840_391324	 Starting Motor_execution	3
+2025-02-25_170842_096130	 Finished Motor_execution	3
+2025-02-25_170842_096130	 Starting Motor_execution	4
+2025-02-25_170844_160381	 Finished Motor_execution	4
+2025-02-25_170844_160381	 Starting Motor_execution	5
+2025-02-25_170846_093972	 Finished Motor_execution	5
+2025-02-25_170846_093972	 Starting Motor_execution	6
+2025-02-25_170847_999171	 Finished Motor_execution	6
+2025-02-25_170847_999171	 display and wait 2 seconds 
+2025-02-25_170850_002653	Finished block 1
+2025-02-25_170850_006330	Starting block 2
+2025-02-25_170850_008845	Starting REST-2
+2025-02-25_170857_417273	Finished REST-2
+2025-02-25_170857_417273	 Starting Motor_execution	1
+2025-02-25_170859_236423	 Finished Motor_execution	1
+2025-02-25_170859_236423	 Starting Motor_execution	2
+2025-02-25_170901_320176	 Finished Motor_execution	2
+2025-02-25_170901_320176	 Starting Motor_execution	3
+2025-02-25_170903_324576	 Finished Motor_execution	3
+2025-02-25_170903_324576	 Starting Motor_execution	4
+2025-02-25_170905_018413	 Finished Motor_execution	4
+2025-02-25_170905_018413	 Starting Motor_execution	5
+2025-02-25_170906_953294	 Finished Motor_execution	5
+2025-02-25_170906_953294	 Starting Motor_execution	6
+2025-02-25_170908_878100	 Finished Motor_execution	6
+2025-02-25_170908_878100	 display and wait 2 seconds 
+2025-02-25_170910_882154	Finished block 2
+2025-02-25_170910_885749	Starting block 3
+2025-02-25_170910_887800	Starting REST-3
+2025-02-25_170918_296470	Finished REST-3
+2025-02-25_170918_296470	 Starting Motor_execution	1
+2025-02-25_170920_169495	 Finished Motor_execution	1
+2025-02-25_170920_169495	 Starting Motor_execution	2
+2025-02-25_170921_984317	 Finished Motor_execution	2
+2025-02-25_170921_984317	 Starting Motor_execution	3
+2025-02-25_170923_848971	 Finished Motor_execution	3
+2025-02-25_170923_848971	 Starting Motor_execution	4
+2025-02-25_170925_903518	 Finished Motor_execution	4
+2025-02-25_170925_903518	 Starting Motor_execution	5
+2025-02-25_170927_728114	 Finished Motor_execution	5
+2025-02-25_170927_728114	 Starting Motor_execution	6
+2025-02-25_170929_582125	 Finished Motor_execution	6
+2025-02-25_170929_582125	 display and wait 2 seconds 
+2025-02-25_170931_585572	Finished block 3
+2025-02-25_170931_588844	Starting block 4
+2025-02-25_170931_591303	Starting REST-4
+2025-02-25_170939_001513	Finished REST-4
+2025-02-25_170939_001513	 Starting Motor_execution	1
+2025-02-25_170940_999159	 Finished Motor_execution	1
+2025-02-25_170940_999159	 Starting Motor_execution	2
+2025-02-25_170942_693445	 Finished Motor_execution	2
+2025-02-25_170942_693445	 Starting Motor_execution	3
+2025-02-25_170944_737785	 Finished Motor_execution	3
+2025-02-25_170944_737785	 Starting Motor_execution	4
+2025-02-25_170946_762983	 Finished Motor_execution	4
+2025-02-25_170946_762983	 Starting Motor_execution	5
+2025-02-25_170948_447475	 Finished Motor_execution	5
+2025-02-25_170948_447475	 Starting Motor_execution	6
+2025-02-25_170950_591979	 Finished Motor_execution	6
+2025-02-25_170950_591979	 display and wait 2 seconds 
+2025-02-25_170952_595798	Finished block 4
+2025-02-25_170952_598854	Starting block 5
+2025-02-25_170952_601897	Starting REST-5
+2025-02-25_171000_016656	Finished REST-5
+2025-02-25_171000_016656	 Starting Motor_execution	1
+2025-02-25_171001_696383	 Finished Motor_execution	1
+2025-02-25_171001_696383	 Starting Motor_execution	2
+2025-02-25_171003_611803	 Finished Motor_execution	2
+2025-02-25_171003_611803	 Starting Motor_execution	3
+2025-02-25_171005_726643	 Finished Motor_execution	3
+2025-02-25_171005_726643	 Starting Motor_execution	4
+2025-02-25_171007_880542	 Finished Motor_execution	4
+2025-02-25_171007_880542	 Starting Motor_execution	5
+2025-02-25_171009_775185	 Finished Motor_execution	5
+2025-02-25_171009_775185	 Starting Motor_execution	6
+2025-02-25_171011_479069	 Finished Motor_execution	6
+2025-02-25_171011_479069	 display and wait 2 seconds 
+2025-02-25_171013_483913	Finished block 5
+2025-02-25_171013_487085	Starting block 6
+2025-02-25_171013_489129	Starting REST-6
+2025-02-25_171020_899059	Finished REST-6
+2025-02-25_171020_899059	 Starting Motor_execution	1
+2025-02-25_171022_660285	 Finished Motor_execution	1
+2025-02-25_171022_660285	 Starting Motor_execution	2
+2025-02-25_171024_454441	 Finished Motor_execution	2
+2025-02-25_171024_454441	 Starting Motor_execution	3
+2025-02-25_171026_148992	 Finished Motor_execution	3
+2025-02-25_171026_148992	 Starting Motor_execution	4
+2025-02-25_171027_863404	 Finished Motor_execution	4
+2025-02-25_171027_863404	 Starting Motor_execution	5
+2025-02-25_171029_648099	 Finished Motor_execution	5
+2025-02-25_171029_648099	 Starting Motor_execution	6
+2025-02-25_171031_342288	 Finished Motor_execution	6
+2025-02-25_171031_342288	 display and wait 2 seconds 
+2025-02-25_171033_345025	Finished block 6
+2025-02-25_171033_349099	Starting block 7
+2025-02-25_171033_350614	Starting REST-7
+2025-02-25_171040_766957	Finished REST-7
+2025-02-25_171040_766957	 Starting Motor_execution	1
+2025-02-25_171042_776794	 Finished Motor_execution	1
+2025-02-25_171042_776794	 Starting Motor_execution	2
+2025-02-25_171044_790978	 Finished Motor_execution	2
+2025-02-25_171044_790978	 Starting Motor_execution	3
+2025-02-25_171046_785309	 Finished Motor_execution	3
+2025-02-25_171046_785309	 Starting Motor_execution	4
+2025-02-25_171048_530343	 Finished Motor_execution	4
+2025-02-25_171048_530343	 Starting Motor_execution	5
+2025-02-25_171050_614916	 Finished Motor_execution	5
+2025-02-25_171050_614916	 Starting Motor_execution	6
+2025-02-25_171052_439698	 Finished Motor_execution	6
+2025-02-25_171052_439698	 display and wait 2 seconds 
+2025-02-25_171054_443356	Finished block 7
+2025-02-25_171054_446722	Starting block 8
+2025-02-25_171054_447770	Starting REST-8
+2025-02-25_171101_865716	Finished REST-8
+2025-02-25_171101_865716	 Starting Motor_execution	1
+2025-02-25_171103_686472	 Finished Motor_execution	1
+2025-02-25_171103_686472	 Starting Motor_execution	2
+2025-02-25_171105_711638	 Finished Motor_execution	2
+2025-02-25_171105_711638	 Starting Motor_execution	3
+2025-02-25_171107_735659	 Finished Motor_execution	3
+2025-02-25_171107_735659	 Starting Motor_execution	4
+2025-02-25_171109_889246	 Finished Motor_execution	4
+2025-02-25_171109_889246	 Starting Motor_execution	5
+2025-02-25_171111_663845	 Finished Motor_execution	5
+2025-02-25_171111_663845	 Starting Motor_execution	6
+2025-02-25_171113_588513	 Finished Motor_execution	6
+2025-02-25_171113_588513	 display and wait 2 seconds 
+2025-02-25_171115_592468	Finished block 8
+2025-02-25_171115_595604	Starting block 9
+2025-02-25_171115_597664	Starting REST-9
+2025-02-25_171123_017572	Finished REST-9
+2025-02-25_171123_017572	 Starting Motor_execution	1
+2025-02-25_171124_936229	 Finished Motor_execution	1
+2025-02-25_171124_936229	 Starting Motor_execution	2
+2025-02-25_171126_960879	 Finished Motor_execution	2
+2025-02-25_171126_960879	 Starting Motor_execution	3
+2025-02-25_171128_635239	 Finished Motor_execution	3
+2025-02-25_171128_635239	 Starting Motor_execution	4
+2025-02-25_171130_479429	 Finished Motor_execution	4
+2025-02-25_171130_479429	 Starting Motor_execution	5
+2025-02-25_171132_173921	 Finished Motor_execution	5
+2025-02-25_171132_173921	 Starting Motor_execution	6
+2025-02-25_171134_019170	 Finished Motor_execution	6
+2025-02-25_171134_019170	 display and wait 2 seconds 
+2025-02-25_171136_022926	Finished block 9
+2025-02-25_171136_026021	Starting block 10
+2025-02-25_171136_028037	Starting REST-10
+2025-02-25_171143_439094	Finished REST-10
+2025-02-25_171143_439094	 Starting Motor_execution	1
+2025-02-25_171145_363902	 Finished Motor_execution	1
+2025-02-25_171145_363902	 Starting Motor_execution	2
+2025-02-25_171147_398110	 Finished Motor_execution	2
+2025-02-25_171147_398110	 Starting Motor_execution	3
+2025-02-25_171149_453277	 Finished Motor_execution	3
+2025-02-25_171149_453277	 Starting Motor_execution	4
+2025-02-25_171151_537376	 Finished Motor_execution	4
+2025-02-25_171151_537376	 Starting Motor_execution	5
+2025-02-25_171153_621814	 Finished Motor_execution	5
+2025-02-25_171153_621814	 display and wait 2 seconds 
+2025-02-25_171155_625728	Finished block 10
+2025-02-25_171155_628270	Finished Run 2
+2025-02-25_171155_629783	Asked to continue next Motor tasks Motor_execution 
+2025-02-25_171155_631083	 display and wait 1.0 seconds 
+2025-02-25_171215_176439	User pressed key to continue Motor_execution 
+2025-02-25_171215_179994	Starting Run 3
+2025-02-25_171215_179994	 display and wait 2 seconds 
+2025-02-25_171217_185772	Starting block 1
+2025-02-25_171217_187832	Starting REST-1
+2025-02-25_171224_599090	Finished REST-1
+2025-02-25_171224_599090	 Starting Motor_execution	1
+2025-02-25_171226_660691	 Finished Motor_execution	1
+2025-02-25_171226_660691	 Starting Motor_execution	2
+2025-02-25_171228_795096	 Finished Motor_execution	2
+2025-02-25_171228_795096	 Starting Motor_execution	3
+2025-02-25_171230_540455	 Finished Motor_execution	3
+2025-02-25_171230_540455	 Starting Motor_execution	4
+2025-02-25_171232_455087	 Finished Motor_execution	4
+2025-02-25_171232_455087	 Starting Motor_execution	5
+2025-02-25_171234_528927	 Finished Motor_execution	5
+2025-02-25_171234_528927	 Starting Motor_execution	6
+2025-02-25_171236_602922	 Finished Motor_execution	6
+2025-02-25_171236_602922	 display and wait 2 seconds 
+2025-02-25_171238_607527	Finished block 1
+2025-02-25_171238_611187	Starting block 2
+2025-02-25_171238_612236	Starting REST-2
+2025-02-25_171246_021036	Finished REST-2
+2025-02-25_171246_021036	 Starting Motor_execution	1
+2025-02-25_171248_026637	 Finished Motor_execution	1
+2025-02-25_171248_026637	 Starting Motor_execution	2
+2025-02-25_171250_091043	 Finished Motor_execution	2
+2025-02-25_171250_091043	 Starting Motor_execution	3
+2025-02-25_171251_975166	 Finished Motor_execution	3
+2025-02-25_171251_975166	 Starting Motor_execution	4
+2025-02-25_171253_699648	 Finished Motor_execution	4
+2025-02-25_171253_699648	 Starting Motor_execution	5
+2025-02-25_171255_774367	 Finished Motor_execution	5
+2025-02-25_171255_774367	 Starting Motor_execution	6
+2025-02-25_171257_497975	 Finished Motor_execution	6
+2025-02-25_171257_497975	 display and wait 2 seconds 
+2025-02-25_171259_502370	Finished block 2
+2025-02-25_171259_505505	Starting block 3
+2025-02-25_171259_507547	Starting REST-3
+2025-02-25_171306_917704	Finished REST-3
+2025-02-25_171306_917704	 Starting Motor_execution	1
+2025-02-25_171308_786809	 Finished Motor_execution	1
+2025-02-25_171308_786809	 Starting Motor_execution	2
+2025-02-25_171310_551815	 Finished Motor_execution	2
+2025-02-25_171310_551815	 Starting Motor_execution	3
+2025-02-25_171312_636004	 Finished Motor_execution	3
+2025-02-25_171312_636004	 Starting Motor_execution	4
+2025-02-25_171314_581179	 Finished Motor_execution	4
+2025-02-25_171314_581179	 Starting Motor_execution	5
+2025-02-25_171316_296767	 Finished Motor_execution	5
+2025-02-25_171316_296767	 Starting Motor_execution	6
+2025-02-25_171318_051458	 Finished Motor_execution	6
+2025-02-25_171318_051458	 display and wait 2 seconds 
+2025-02-25_171320_055504	Finished block 3
+2025-02-25_171320_059092	Starting block 4
+2025-02-25_171320_061231	Starting REST-4
+2025-02-25_171327_469089	Finished REST-4
+2025-02-25_171327_469089	 Starting Motor_execution	1
+2025-02-25_171329_356484	 Finished Motor_execution	1
+2025-02-25_171329_356484	 Starting Motor_execution	2
+2025-02-25_171331_210276	 Finished Motor_execution	2
+2025-02-25_171331_210276	 Starting Motor_execution	3
+2025-02-25_171332_894057	 Finished Motor_execution	3
+2025-02-25_171332_894057	 Starting Motor_execution	4
+2025-02-25_171334_858001	 Finished Motor_execution	4
+2025-02-25_171334_858001	 Starting Motor_execution	5
+2025-02-25_171336_902685	 Finished Motor_execution	5
+2025-02-25_171336_902685	 Starting Motor_execution	6
+2025-02-25_171338_937138	 Finished Motor_execution	6
+2025-02-25_171338_937138	 display and wait 2 seconds 
+2025-02-25_171340_942015	Finished block 4
+2025-02-25_171340_945551	Starting block 5
+2025-02-25_171340_947798	Starting REST-5
+2025-02-25_171348_365310	Finished REST-5
+2025-02-25_171348_366424	 Starting Motor_execution	1
+2025-02-25_171350_237464	 Finished Motor_execution	1
+2025-02-25_171350_237464	 Starting Motor_execution	2
+2025-02-25_171351_991292	 Finished Motor_execution	2
+2025-02-25_171351_991292	 Starting Motor_execution	3
+2025-02-25_171353_676422	 Finished Motor_execution	3
+2025-02-25_171353_676422	 Starting Motor_execution	4
+2025-02-25_171355_640852	 Finished Motor_execution	4
+2025-02-25_171355_640852	 Starting Motor_execution	5
+2025-02-25_171357_475717	 Finished Motor_execution	5
+2025-02-25_171357_475717	 Starting Motor_execution	6
+2025-02-25_171359_210814	 Finished Motor_execution	6
+2025-02-25_171359_210814	 display and wait 2 seconds 
+2025-02-25_171401_214632	Finished block 5
+2025-02-25_171401_218003	Starting block 6
+2025-02-25_171401_219516	Starting REST-6
+2025-02-25_171408_632895	Finished REST-6
+2025-02-25_171408_632895	 Starting Motor_execution	1
+2025-02-25_171410_523101	 Finished Motor_execution	1
+2025-02-25_171410_523101	 Starting Motor_execution	2
+2025-02-25_171412_647137	 Finished Motor_execution	2
+2025-02-25_171412_647137	 Starting Motor_execution	3
+2025-02-25_171414_311846	 Finished Motor_execution	3
+2025-02-25_171414_311846	 Starting Motor_execution	4
+2025-02-25_171416_296195	 Finished Motor_execution	4
+2025-02-25_171416_296195	 Starting Motor_execution	5
+2025-02-25_171418_420308	 Finished Motor_execution	5
+2025-02-25_171418_420308	 Starting Motor_execution	6
+2025-02-25_171420_175497	 Finished Motor_execution	6
+2025-02-25_171420_175497	 display and wait 2 seconds 
+2025-02-25_171422_179994	Finished block 6
+2025-02-25_171422_183953	Starting block 7
+2025-02-25_171422_186149	Starting REST-7
+2025-02-25_171429_598877	Finished REST-7
+2025-02-25_171429_598877	 Starting Motor_execution	1
+2025-02-25_171431_680570	 Finished Motor_execution	1
+2025-02-25_171431_680570	 Starting Motor_execution	2
+2025-02-25_171433_345422	 Finished Motor_execution	2
+2025-02-25_171433_345422	 Starting Motor_execution	3
+2025-02-25_171435_450326	 Finished Motor_execution	3
+2025-02-25_171435_450326	 Starting Motor_execution	4
+2025-02-25_171437_174796	 Finished Motor_execution	4
+2025-02-25_171437_174796	 Starting Motor_execution	5
+2025-02-25_171439_269587	 Finished Motor_execution	5
+2025-02-25_171439_269587	 Starting Motor_execution	6
+2025-02-25_171441_303607	 Finished Motor_execution	6
+2025-02-25_171441_303607	 display and wait 2 seconds 
+2025-02-25_171443_307937	Finished block 7
+2025-02-25_171443_311215	Starting block 8
+2025-02-25_171443_313566	Starting REST-8
+2025-02-25_171450_724153	Finished REST-8
+2025-02-25_171450_724153	 Starting Motor_execution	1
+2025-02-25_171452_428197	 Finished Motor_execution	1
+2025-02-25_171452_428197	 Starting Motor_execution	2
+2025-02-25_171454_492941	 Finished Motor_execution	2
+2025-02-25_171454_492941	 Starting Motor_execution	3
+2025-02-25_171456_398030	 Finished Motor_execution	3
+2025-02-25_171456_398030	 Starting Motor_execution	4
+2025-02-25_171458_283920	 Finished Motor_execution	4
+2025-02-25_171458_283920	 Starting Motor_execution	5
+2025-02-25_171500_039223	 Finished Motor_execution	5
+2025-02-25_171500_039223	 Starting Motor_execution	6
+2025-02-25_171502_144025	 Finished Motor_execution	6
+2025-02-25_171502_144025	 display and wait 2 seconds 
+2025-02-25_171504_149220	Finished block 8
+2025-02-25_171504_152810	Starting block 9
+2025-02-25_171504_154133	Starting REST-9
+2025-02-25_171511_566649	Finished REST-9
+2025-02-25_171511_566649	 Starting Motor_execution	1
+2025-02-25_171513_357442	 Finished Motor_execution	1
+2025-02-25_171513_357442	 Starting Motor_execution	2
+2025-02-25_171515_421665	 Finished Motor_execution	2
+2025-02-25_171515_421665	 Starting Motor_execution	3
+2025-02-25_171517_425878	 Finished Motor_execution	3
+2025-02-25_171517_425878	 Starting Motor_execution	4
+2025-02-25_171519_310139	 Finished Motor_execution	4
+2025-02-25_171519_310139	 Starting Motor_execution	5
+2025-02-25_171521_044257	 Finished Motor_execution	5
+2025-02-25_171521_044257	 Starting Motor_execution	6
+2025-02-25_171523_058607	 Finished Motor_execution	6
+2025-02-25_171523_058607	 display and wait 2 seconds 
+2025-02-25_171525_063283	Finished block 9
+2025-02-25_171525_066820	Starting block 10
+2025-02-25_171525_068122	Starting REST-10
+2025-02-25_171532_482349	Finished REST-10
+2025-02-25_171532_482349	 Starting Motor_execution	1
+2025-02-25_171534_274067	 Finished Motor_execution	1
+2025-02-25_171534_274067	 Starting Motor_execution	2
+2025-02-25_171536_349771	 Finished Motor_execution	2
+2025-02-25_171536_349771	 Starting Motor_execution	3
+2025-02-25_171538_064238	 Finished Motor_execution	3
+2025-02-25_171538_064238	 Starting Motor_execution	4
+2025-02-25_171539_849854	 Finished Motor_execution	4
+2025-02-25_171539_849854	 Starting Motor_execution	5
+2025-02-25_171542_005618	 Finished Motor_execution	5
+2025-02-25_171542_005618	 Starting Motor_execution	6
+2025-02-25_171543_669801	 Finished Motor_execution	6
+2025-02-25_171543_669801	 display and wait 2 seconds 
+2025-02-25_171545_674067	Finished block 10
+2025-02-25_171545_676432	Finished Run 3
+2025-02-25_171545_677475	Asked to continue next Motor tasks Motor_execution 
+2025-02-25_171545_680036	 display and wait 1.0 seconds 
+2025-02-25_171552_168081	User pressed key to continue Motor_execution 
+2025-02-25_171552_172648	Starting Run 4
+2025-02-25_171552_172648	 display and wait 2 seconds 
+2025-02-25_171554_179159	Starting block 1
+2025-02-25_171554_180686	Starting REST-1
+2025-02-25_171601_600683	Finished REST-1
+2025-02-25_171601_600683	 Starting Motor_execution	1
+2025-02-25_171603_550281	 Finished Motor_execution	1
+2025-02-25_171603_550281	 Starting Motor_execution	2
+2025-02-25_171605_255184	 Finished Motor_execution	2
+2025-02-25_171605_255184	 Starting Motor_execution	3
+2025-02-25_171607_270167	 Finished Motor_execution	3
+2025-02-25_171607_270167	 Starting Motor_execution	4
+2025-02-25_171608_994740	 Finished Motor_execution	4
+2025-02-25_171608_994740	 Starting Motor_execution	5
+2025-02-25_171611_059006	 Finished Motor_execution	5
+2025-02-25_171611_059006	 Starting Motor_execution	6
+2025-02-25_171612_963807	 Finished Motor_execution	6
+2025-02-25_171612_963807	 display and wait 2 seconds 
+2025-02-25_171614_969136	Finished block 1
+2025-02-25_171614_972247	Starting block 2
+2025-02-25_171614_974294	Starting REST-2
+2025-02-25_171622_385414	Finished REST-2
+2025-02-25_171622_385414	 Starting Motor_execution	1
+2025-02-25_171624_053712	 Finished Motor_execution	1
+2025-02-25_171624_053712	 Starting Motor_execution	2
+2025-02-25_171626_078281	 Finished Motor_execution	2
+2025-02-25_171626_078281	 Starting Motor_execution	3
+2025-02-25_171628_082658	 Finished Motor_execution	3
+2025-02-25_171628_082658	 Starting Motor_execution	4
+2025-02-25_171629_896585	 Finished Motor_execution	4
+2025-02-25_171629_896585	 Starting Motor_execution	5
+2025-02-25_171631_921364	 Finished Motor_execution	5
+2025-02-25_171631_921364	 Starting Motor_execution	6
+2025-02-25_171633_966758	 Finished Motor_execution	6
+2025-02-25_171633_966758	 display and wait 2 seconds 
+2025-02-25_171635_971849	Finished block 2
+2025-02-25_171635_974923	Starting block 3
+2025-02-25_171635_976969	Starting REST-3
+2025-02-25_171643_387504	Finished REST-3
+2025-02-25_171643_387504	 Starting Motor_execution	1
+2025-02-25_171645_353180	 Finished Motor_execution	1
+2025-02-25_171645_353180	 Starting Motor_execution	2
+2025-02-25_171647_148179	 Finished Motor_execution	2
+2025-02-25_171647_148179	 Starting Motor_execution	3
+2025-02-25_171649_031825	 Finished Motor_execution	3
+2025-02-25_171649_031825	 Starting Motor_execution	4
+2025-02-25_171651_045549	 Finished Motor_execution	4
+2025-02-25_171651_045549	 Starting Motor_execution	5
+2025-02-25_171652_789472	 Finished Motor_execution	5
+2025-02-25_171652_789472	 Starting Motor_execution	6
+2025-02-25_171654_753499	 Finished Motor_execution	6
+2025-02-25_171654_753499	 display and wait 2 seconds 
+2025-02-25_171656_758038	Finished block 3
+2025-02-25_171656_761291	Starting block 4
+2025-02-25_171656_763337	Starting REST-4
+2025-02-25_171704_175531	Finished REST-4
+2025-02-25_171704_175531	 Starting Motor_execution	1
+2025-02-25_171706_228721	 Finished Motor_execution	1
+2025-02-25_171706_228721	 Starting Motor_execution	2
+2025-02-25_171707_992581	 Finished Motor_execution	2
+2025-02-25_171707_992581	 Starting Motor_execution	3
+2025-02-25_171710_126771	 Finished Motor_execution	3
+2025-02-25_171710_126771	 Starting Motor_execution	4
+2025-02-25_171712_130713	 Finished Motor_execution	4
+2025-02-25_171712_130713	 Starting Motor_execution	5
+2025-02-25_171713_994872	 Finished Motor_execution	5
+2025-02-25_171713_994872	 Starting Motor_execution	6
+2025-02-25_171715_689154	 Finished Motor_execution	6
+2025-02-25_171715_689154	 display and wait 2 seconds 
+2025-02-25_171717_693279	Finished block 4
+2025-02-25_171717_697904	Starting block 5
+2025-02-25_171717_700149	Starting REST-5
+2025-02-25_171725_115900	Finished REST-5
+2025-02-25_171725_115900	 Starting Motor_execution	1
+2025-02-25_171727_086820	 Finished Motor_execution	1
+2025-02-25_171727_086820	 Starting Motor_execution	2
+2025-02-25_171728_861723	 Finished Motor_execution	2
+2025-02-25_171728_861723	 Starting Motor_execution	3
+2025-02-25_171730_726362	 Finished Motor_execution	3
+2025-02-25_171730_726362	 Starting Motor_execution	4
+2025-02-25_171732_829636	 Finished Motor_execution	4
+2025-02-25_171732_829636	 Starting Motor_execution	5
+2025-02-25_171734_823960	 Finished Motor_execution	5
+2025-02-25_171734_823960	 Starting Motor_execution	6
+2025-02-25_171736_658016	 Finished Motor_execution	6
+2025-02-25_171736_658016	 display and wait 2 seconds 
+2025-02-25_171738_660949	Finished block 5
+2025-02-25_171738_665389	Starting block 6
+2025-02-25_171738_667598	Starting REST-6
+2025-02-25_171746_082690	Finished REST-6
+2025-02-25_171746_082690	 Starting Motor_execution	1
+2025-02-25_171747_753707	 Finished Motor_execution	1
+2025-02-25_171747_753707	 Starting Motor_execution	2
+2025-02-25_171749_408630	 Finished Motor_execution	2
+2025-02-25_171749_408630	 Starting Motor_execution	3
+2025-02-25_171751_453152	 Finished Motor_execution	3
+2025-02-25_171751_453152	 Starting Motor_execution	4
+2025-02-25_171753_377918	 Finished Motor_execution	4
+2025-02-25_171753_377918	 Starting Motor_execution	5
+2025-02-25_171755_361992	 Finished Motor_execution	5
+2025-02-25_171755_361992	 Starting Motor_execution	6
+2025-02-25_171757_215771	 Finished Motor_execution	6
+2025-02-25_171757_215771	 display and wait 2 seconds 
+2025-02-25_171759_218903	Finished block 6
+2025-02-25_171759_222885	Starting block 7
+2025-02-25_171759_224934	Starting REST-7
+2025-02-25_171806_635830	Finished REST-7
+2025-02-25_171806_635830	 Starting Motor_execution	1
+2025-02-25_171808_453363	 Finished Motor_execution	1
+2025-02-25_171808_453363	 Starting Motor_execution	2
+2025-02-25_171810_587639	 Finished Motor_execution	2
+2025-02-25_171810_587639	 Starting Motor_execution	3
+2025-02-25_171812_582532	 Finished Motor_execution	3
+2025-02-25_171812_582532	 Starting Motor_execution	4
+2025-02-25_171814_247095	 Finished Motor_execution	4
+2025-02-25_171814_247095	 Starting Motor_execution	5
+2025-02-25_171815_912311	 Finished Motor_execution	5
+2025-02-25_171815_912311	 Starting Motor_execution	6
+2025-02-25_171817_877425	 Finished Motor_execution	6
+2025-02-25_171817_877425	 display and wait 2 seconds 
+2025-02-25_171819_881264	Finished block 7
+2025-02-25_171819_884328	Starting block 8
+2025-02-25_171819_886719	Starting REST-8
+2025-02-25_171827_299408	Finished REST-8
+2025-02-25_171827_299408	 Starting Motor_execution	1
+2025-02-25_171829_040794	 Finished Motor_execution	1
+2025-02-25_171829_040794	 Starting Motor_execution	2
+2025-02-25_171831_195431	 Finished Motor_execution	2
+2025-02-25_171831_195431	 Starting Motor_execution	3
+2025-02-25_171833_019347	 Finished Motor_execution	3
+2025-02-25_171833_019347	 Starting Motor_execution	4
+2025-02-25_171835_113784	 Finished Motor_execution	4
+2025-02-25_171835_113784	 Starting Motor_execution	5
+2025-02-25_171837_018254	 Finished Motor_execution	5
+2025-02-25_171837_018254	 Starting Motor_execution	6
+2025-02-25_171839_002771	 Finished Motor_execution	6
+2025-02-25_171839_002771	 display and wait 2 seconds 
+2025-02-25_171841_006619	Finished block 8
+2025-02-25_171841_010175	Starting block 9
+2025-02-25_171841_012235	Starting REST-9
+2025-02-25_171848_421649	Finished REST-9
+2025-02-25_171848_421649	 Starting Motor_execution	1
+2025-02-25_171850_206636	 Finished Motor_execution	1
+2025-02-25_171850_206636	 Starting Motor_execution	2
+2025-02-25_171852_091395	 Finished Motor_execution	2
+2025-02-25_171852_091395	 Starting Motor_execution	3
+2025-02-25_171854_005675	 Finished Motor_execution	3
+2025-02-25_171854_005675	 Starting Motor_execution	4
+2025-02-25_171856_139308	 Finished Motor_execution	4
+2025-02-25_171856_139308	 Starting Motor_execution	5
+2025-02-25_171858_222620	 Finished Motor_execution	5
+2025-02-25_171858_222620	 Starting Motor_execution	6
+2025-02-25_171900_316677	 Finished Motor_execution	6
+2025-02-25_171900_316677	 display and wait 2 seconds 
+2025-02-25_171902_321308	Finished block 9
+2025-02-25_171902_325565	Starting block 10
+2025-02-25_171902_326746	Starting REST-10
+2025-02-25_171909_737443	Finished REST-10
+2025-02-25_171909_737443	 Starting Motor_execution	1
+2025-02-25_171911_733763	 Finished Motor_execution	1
+2025-02-25_171911_733763	 Starting Motor_execution	2
+2025-02-25_171913_587762	 Finished Motor_execution	2
+2025-02-25_171913_587762	 Starting Motor_execution	3
+2025-02-25_171915_291649	 Finished Motor_execution	3
+2025-02-25_171915_291649	 Starting Motor_execution	4
+2025-02-25_171917_266011	 Finished Motor_execution	4
+2025-02-25_171917_266011	 Starting Motor_execution	5
+2025-02-25_171919_070843	 Finished Motor_execution	5
+2025-02-25_171919_070843	 Starting Motor_execution	6
+2025-02-25_171921_035643	 Finished Motor_execution	6
+2025-02-25_171921_035643	 display and wait 2 seconds 
+2025-02-25_171923_040305	Finished block 10
+2025-02-25_171923_041454	Finished Run 4
+2025-02-25_171923_043686	Asked to continue next Motor tasks Motor_execution 
+2025-02-25_171923_044741	 display and wait 1.0 seconds 
+2025-02-25_172011_288838	User pressed key to continue Motor_execution 
+2025-02-25_172011_292013	Starting Run 5
+2025-02-25_172011_292013	 display and wait 2 seconds 
+2025-02-25_172013_297514	Starting block 1
+2025-02-25_172013_299025	Starting REST-1
+2025-02-25_172020_714774	Finished REST-1
+2025-02-25_172020_715925	 Starting Motor_execution	1
+2025-02-25_172022_467092	 Finished Motor_execution	1
+2025-02-25_172022_467092	 Starting Motor_execution	2
+2025-02-25_172024_550882	 Finished Motor_execution	2
+2025-02-25_172024_550882	 Starting Motor_execution	3
+2025-02-25_172026_655810	 Finished Motor_execution	3
+2025-02-25_172026_655810	 Starting Motor_execution	4
+2025-02-25_172028_790249	 Finished Motor_execution	4
+2025-02-25_172028_790249	 Starting Motor_execution	5
+2025-02-25_172030_714547	 Finished Motor_execution	5
+2025-02-25_172030_714547	 display and wait 2 seconds 
+2025-02-25_172032_718150	Finished block 1
+2025-02-25_172032_721691	Starting block 2
+2025-02-25_172032_723826	Starting REST-2
+2025-02-25_172040_133745	Finished REST-2
+2025-02-25_172040_133745	 Starting Motor_execution	1
+2025-02-25_172042_213729	 Finished Motor_execution	1
+2025-02-25_172042_213729	 Starting Motor_execution	2
+2025-02-25_172044_088282	 Finished Motor_execution	2
+2025-02-25_172044_088282	 Starting Motor_execution	3
+2025-02-25_172046_002925	 Finished Motor_execution	3
+2025-02-25_172046_002925	 Starting Motor_execution	4
+2025-02-25_172048_007308	 Finished Motor_execution	4
+2025-02-25_172048_007308	 Starting Motor_execution	5
+2025-02-25_172050_011738	 Finished Motor_execution	5
+2025-02-25_172050_011738	 Starting Motor_execution	6
+2025-02-25_172051_816015	 Finished Motor_execution	6
+2025-02-25_172051_816015	 display and wait 2 seconds 
+2025-02-25_172053_819901	Finished block 2
+2025-02-25_172053_824420	Starting block 3
+2025-02-25_172053_825467	Starting REST-3
+2025-02-25_172101_234016	Finished REST-3
+2025-02-25_172101_234016	 Starting Motor_execution	1
+2025-02-25_172103_084585	 Finished Motor_execution	1
+2025-02-25_172103_084585	 Starting Motor_execution	2
+2025-02-25_172104_818650	 Finished Motor_execution	2
+2025-02-25_172104_818650	 Starting Motor_execution	3
+2025-02-25_172106_683214	 Finished Motor_execution	3
+2025-02-25_172106_683214	 Starting Motor_execution	4
+2025-02-25_172108_467807	 Finished Motor_execution	4
+2025-02-25_172108_467807	 Starting Motor_execution	5
+2025-02-25_172110_122161	 Finished Motor_execution	5
+2025-02-25_172110_122161	 Starting Motor_execution	6
+2025-02-25_172111_996412	 Finished Motor_execution	6
+2025-02-25_172111_996412	 display and wait 2 seconds 
+2025-02-25_172114_000507	Finished block 3
+2025-02-25_172114_003606	Starting block 4
+2025-02-25_172114_005646	Starting REST-4
+2025-02-25_172121_417138	Finished REST-4
+2025-02-25_172121_417138	 Starting Motor_execution	1
+2025-02-25_172123_567198	 Finished Motor_execution	1
+2025-02-25_172123_567198	 Starting Motor_execution	2
+2025-02-25_172125_262101	 Finished Motor_execution	2
+2025-02-25_172125_262101	 Starting Motor_execution	3
+2025-02-25_172127_315512	 Finished Motor_execution	3
+2025-02-25_172127_315512	 Starting Motor_execution	4
+2025-02-25_172129_089403	 Finished Motor_execution	4
+2025-02-25_172129_089403	 Starting Motor_execution	5
+2025-02-25_172131_053756	 Finished Motor_execution	5
+2025-02-25_172131_053756	 Starting Motor_execution	6
+2025-02-25_172132_747435	 Finished Motor_execution	6
+2025-02-25_172132_747435	 display and wait 2 seconds 
+2025-02-25_172134_751499	Finished block 4
+2025-02-25_172134_755004	Starting block 5
+2025-02-25_172134_757053	Starting REST-5
+2025-02-25_172142_166262	Finished REST-5
+2025-02-25_172142_166262	 Starting Motor_execution	1
+2025-02-25_172143_886856	 Finished Motor_execution	1
+2025-02-25_172143_886856	 Starting Motor_execution	2
+2025-02-25_172145_581797	 Finished Motor_execution	2
+2025-02-25_172145_581797	 Starting Motor_execution	3
+2025-02-25_172147_407141	 Finished Motor_execution	3
+2025-02-25_172147_407141	 Starting Motor_execution	4
+2025-02-25_172149_490832	 Finished Motor_execution	4
+2025-02-25_172149_490832	 Starting Motor_execution	5
+2025-02-25_172151_204740	 Finished Motor_execution	5
+2025-02-25_172151_204740	 Starting Motor_execution	6
+2025-02-25_172152_969398	 Finished Motor_execution	6
+2025-02-25_172152_969398	 display and wait 2 seconds 
+2025-02-25_172154_974094	Finished block 5
+2025-02-25_172154_977355	Starting block 6
+2025-02-25_172154_978862	Starting REST-6
+2025-02-25_172202_390256	Finished REST-6
+2025-02-25_172202_390256	 Starting Motor_execution	1
+2025-02-25_172204_194506	 Finished Motor_execution	1
+2025-02-25_172204_194506	 Starting Motor_execution	2
+2025-02-25_172205_928899	 Finished Motor_execution	2
+2025-02-25_172205_928899	 Starting Motor_execution	3
+2025-02-25_172207_823731	 Finished Motor_execution	3
+2025-02-25_172207_823731	 Starting Motor_execution	4
+2025-02-25_172209_739085	 Finished Motor_execution	4
+2025-02-25_172209_739085	 Starting Motor_execution	5
+2025-02-25_172211_523268	 Finished Motor_execution	5
+2025-02-25_172211_523268	 Starting Motor_execution	6
+2025-02-25_172213_417800	 Finished Motor_execution	6
+2025-02-25_172213_417800	 display and wait 2 seconds 
+2025-02-25_172215_421395	Finished block 6
+2025-02-25_172215_425195	Starting block 7
+2025-02-25_172215_427286	Starting REST-7
+2025-02-25_172222_836601	Finished REST-7
+2025-02-25_172222_836601	 Starting Motor_execution	1
+2025-02-25_172224_594335	 Finished Motor_execution	1
+2025-02-25_172224_594335	 Starting Motor_execution	2
+2025-02-25_172226_558072	 Finished Motor_execution	2
+2025-02-25_172226_558072	 Starting Motor_execution	3
+2025-02-25_172228_671707	 Finished Motor_execution	3
+2025-02-25_172228_671707	 Starting Motor_execution	4
+2025-02-25_172230_545642	 Finished Motor_execution	4
+2025-02-25_172230_545642	 Starting Motor_execution	5
+2025-02-25_172232_350536	 Finished Motor_execution	5
+2025-02-25_172232_350536	 Starting Motor_execution	6
+2025-02-25_172234_095247	 Finished Motor_execution	6
+2025-02-25_172234_095247	 display and wait 2 seconds 
+2025-02-25_172236_099126	Finished block 7
+2025-02-25_172236_102221	Starting block 8
+2025-02-25_172236_104740	Starting REST-8
+2025-02-25_172243_517218	Finished REST-8
+2025-02-25_172243_517218	 Starting Motor_execution	1
+2025-02-25_172245_287390	 Finished Motor_execution	1
+2025-02-25_172245_287390	 Starting Motor_execution	2
+2025-02-25_172247_391927	 Finished Motor_execution	2
+2025-02-25_172247_391927	 Starting Motor_execution	3
+2025-02-25_172249_146556	 Finished Motor_execution	3
+2025-02-25_172249_146556	 Starting Motor_execution	4
+2025-02-25_172251_051702	 Finished Motor_execution	4
+2025-02-25_172251_051702	 Starting Motor_execution	5
+2025-02-25_172252_746035	 Finished Motor_execution	5
+2025-02-25_172252_746035	 Starting Motor_execution	6
+2025-02-25_172254_600797	 Finished Motor_execution	6
+2025-02-25_172254_600797	 display and wait 2 seconds 
+2025-02-25_172256_604418	Finished block 8
+2025-02-25_172256_607883	Starting block 9
+2025-02-25_172256_608882	Starting REST-9
+2025-02-25_172304_019402	Finished REST-9
+2025-02-25_172304_019402	 Starting Motor_execution	1
+2025-02-25_172305_847637	 Finished Motor_execution	1
+2025-02-25_172305_847637	 Starting Motor_execution	2
+2025-02-25_172307_802943	 Finished Motor_execution	2
+2025-02-25_172307_802943	 Starting Motor_execution	3
+2025-02-25_172309_637359	 Finished Motor_execution	3
+2025-02-25_172309_637359	 Starting Motor_execution	4
+2025-02-25_172311_591856	 Finished Motor_execution	4
+2025-02-25_172311_591856	 Starting Motor_execution	5
+2025-02-25_172313_706112	 Finished Motor_execution	5
+2025-02-25_172313_706112	 Starting Motor_execution	6
+2025-02-25_172315_390390	 Finished Motor_execution	6
+2025-02-25_172315_390390	 display and wait 2 seconds 
+2025-02-25_172317_393357	Finished block 9
+2025-02-25_172317_398122	Starting block 10
+2025-02-25_172317_399622	Starting REST-10
+2025-02-25_172324_817083	Finished REST-10
+2025-02-25_172324_817083	 Starting Motor_execution	1
+2025-02-25_172326_768523	 Finished Motor_execution	1
+2025-02-25_172326_768523	 Starting Motor_execution	2
+2025-02-25_172328_462260	 Finished Motor_execution	2
+2025-02-25_172328_462260	 Starting Motor_execution	3
+2025-02-25_172330_416508	 Finished Motor_execution	3
+2025-02-25_172330_416508	 Starting Motor_execution	4
+2025-02-25_172332_240545	 Finished Motor_execution	4
+2025-02-25_172332_240545	 Starting Motor_execution	5
+2025-02-25_172333_974498	 Finished Motor_execution	5
+2025-02-25_172333_974498	 Starting Motor_execution	6
+2025-02-25_172336_018897	 Finished Motor_execution	6
+2025-02-25_172336_018897	 display and wait 2 seconds 
+2025-02-25_172338_024093	Finished block 10
+2025-02-25_172338_025140	Finished Run 5
+2025-02-25_172338_027181	Asked to continue next Motor tasks Motor_execution 
+2025-02-25_172338_028692	 display and wait 1.0 seconds 
+2025-02-25_172342_008750	User pressed key to continue Motor_execution 
+2025-02-25_172342_012013	Starting Run 6
+2025-02-25_172342_012013	 display and wait 2 seconds 
+2025-02-25_172344_017776	Starting block 1
+2025-02-25_172344_019278	Starting REST-1
+2025-02-25_172351_432971	Finished REST-1
+2025-02-25_172351_432971	 Starting Motor_execution	1
+2025-02-25_172353_454384	 Finished Motor_execution	1
+2025-02-25_172353_454384	 Starting Motor_execution	2
+2025-02-25_172355_298819	 Finished Motor_execution	2
+2025-02-25_172355_298819	 Starting Motor_execution	3
+2025-02-25_172357_163653	 Finished Motor_execution	3
+2025-02-25_172357_163653	 Starting Motor_execution	4
+2025-02-25_172358_847736	 Finished Motor_execution	4
+2025-02-25_172358_847736	 Starting Motor_execution	5
+2025-02-25_172400_952310	 Finished Motor_execution	5
+2025-02-25_172400_952310	 Starting Motor_execution	6
+2025-02-25_172402_876721	 Finished Motor_execution	6
+2025-02-25_172402_876721	 display and wait 2 seconds 
+2025-02-25_172404_881106	Finished block 1
+2025-02-25_172404_884196	Starting block 2
+2025-02-25_172404_886356	Starting REST-2
+2025-02-25_172412_298996	Finished REST-2
+2025-02-25_172412_298996	 Starting Motor_execution	1
+2025-02-25_172414_341363	 Finished Motor_execution	1
+2025-02-25_172414_341363	 Starting Motor_execution	2
+2025-02-25_172416_345666	 Finished Motor_execution	2
+2025-02-25_172416_345666	 Starting Motor_execution	3
+2025-02-25_172418_079696	 Finished Motor_execution	3
+2025-02-25_172418_079696	 Starting Motor_execution	4
+2025-02-25_172420_004976	 Finished Motor_execution	4
+2025-02-25_172420_004976	 Starting Motor_execution	5
+2025-02-25_172421_979434	 Finished Motor_execution	5
+2025-02-25_172421_979434	 Starting Motor_execution	6
+2025-02-25_172424_083200	 Finished Motor_execution	6
+2025-02-25_172424_083200	 display and wait 2 seconds 
+2025-02-25_172426_087397	Finished block 2
+2025-02-25_172426_089981	Starting block 3
+2025-02-25_172426_092449	Starting REST-3
+2025-02-25_172433_502357	Finished REST-3
+2025-02-25_172433_502357	 Starting Motor_execution	1
+2025-02-25_172435_240230	 Finished Motor_execution	1
+2025-02-25_172435_240230	 Starting Motor_execution	2
+2025-02-25_172437_024434	 Finished Motor_execution	2
+2025-02-25_172437_024434	 Starting Motor_execution	3
+2025-02-25_172438_779357	 Finished Motor_execution	3
+2025-02-25_172438_779357	 Starting Motor_execution	4
+2025-02-25_172440_533442	 Finished Motor_execution	4
+2025-02-25_172440_533442	 Starting Motor_execution	5
+2025-02-25_172442_558471	 Finished Motor_execution	5
+2025-02-25_172442_558471	 Starting Motor_execution	6
+2025-02-25_172444_223941	 Finished Motor_execution	6
+2025-02-25_172444_223941	 display and wait 2 seconds 
+2025-02-25_172446_227971	Finished block 3
+2025-02-25_172446_231250	Starting block 4
+2025-02-25_172446_233335	Starting REST-4
+2025-02-25_172453_650574	Finished REST-4
+2025-02-25_172453_650574	 Starting Motor_execution	1
+2025-02-25_172455_331875	 Finished Motor_execution	1
+2025-02-25_172455_331875	 Starting Motor_execution	2
+2025-02-25_172457_266405	 Finished Motor_execution	2
+2025-02-25_172457_266405	 Starting Motor_execution	3
+2025-02-25_172459_321035	 Finished Motor_execution	3
+2025-02-25_172459_321035	 Starting Motor_execution	4
+2025-02-25_172501_175212	 Finished Motor_execution	4
+2025-02-25_172501_175212	 Starting Motor_execution	5
+2025-02-25_172503_029400	 Finished Motor_execution	5
+2025-02-25_172503_029400	 Starting Motor_execution	6
+2025-02-25_172504_854714	 Finished Motor_execution	6
+2025-02-25_172504_854714	 display and wait 2 seconds 
+2025-02-25_172506_858851	Finished block 4
+2025-02-25_172506_861977	Starting block 5
+2025-02-25_172506_864175	Starting REST-5
+2025-02-25_172514_272869	Finished REST-5
+2025-02-25_172514_272869	 Starting Motor_execution	1
+2025-02-25_172516_257243	 Finished Motor_execution	1
+2025-02-25_172516_257243	 Starting Motor_execution	2
+2025-02-25_172518_361888	 Finished Motor_execution	2
+2025-02-25_172518_361888	 Starting Motor_execution	3
+2025-02-25_172520_057111	 Finished Motor_execution	3
+2025-02-25_172520_057111	 Starting Motor_execution	4
+2025-02-25_172521_920917	 Finished Motor_execution	4
+2025-02-25_172521_920917	 Starting Motor_execution	5
+2025-02-25_172523_725938	 Finished Motor_execution	5
+2025-02-25_172523_725938	 Starting Motor_execution	6
+2025-02-25_172525_559266	 Finished Motor_execution	6
+2025-02-25_172525_559266	 display and wait 2 seconds 
+2025-02-25_172527_562683	Finished block 5
+2025-02-25_172527_566073	Starting block 6
+2025-02-25_172527_568126	Starting REST-6
+2025-02-25_172534_983081	Finished REST-6
+2025-02-25_172534_983081	 Starting Motor_execution	1
+2025-02-25_172536_784135	 Finished Motor_execution	1
+2025-02-25_172536_784135	 Starting Motor_execution	2
+2025-02-25_172538_917779	 Finished Motor_execution	2
+2025-02-25_172538_917779	 Starting Motor_execution	3
+2025-02-25_172540_711513	 Finished Motor_execution	3
+2025-02-25_172540_711513	 Starting Motor_execution	4
+2025-02-25_172542_395879	 Finished Motor_execution	4
+2025-02-25_172542_395879	 Starting Motor_execution	5
+2025-02-25_172544_129512	 Finished Motor_execution	5
+2025-02-25_172544_129512	 Starting Motor_execution	6
+2025-02-25_172546_253575	 Finished Motor_execution	6
+2025-02-25_172546_253575	 display and wait 2 seconds 
+2025-02-25_172548_258170	Finished block 6
+2025-02-25_172548_261963	Starting block 7
+2025-02-25_172548_262983	Starting REST-7
+2025-02-25_172555_673705	Finished REST-7
+2025-02-25_172555_673705	 Starting Motor_execution	1
+2025-02-25_172557_697440	 Finished Motor_execution	1
+2025-02-25_172557_697440	 Starting Motor_execution	2
+2025-02-25_172559_742284	 Finished Motor_execution	2
+2025-02-25_172559_742284	 Starting Motor_execution	3
+2025-02-25_172601_846597	 Finished Motor_execution	3
+2025-02-25_172601_846597	 Starting Motor_execution	4
+2025-02-25_172603_810943	 Finished Motor_execution	4
+2025-02-25_172603_810943	 Starting Motor_execution	5
+2025-02-25_172605_514727	 Finished Motor_execution	5
+2025-02-25_172605_514727	 Starting Motor_execution	6
+2025-02-25_172607_269441	 Finished Motor_execution	6
+2025-02-25_172607_269441	 display and wait 2 seconds 
+2025-02-25_172609_272904	Finished block 7
+2025-02-25_172609_277306	Starting block 8
+2025-02-25_172609_278816	Starting REST-8
+2025-02-25_172616_687522	Finished REST-8
+2025-02-25_172616_687522	 Starting Motor_execution	1
+2025-02-25_172618_504634	 Finished Motor_execution	1
+2025-02-25_172618_504634	 Starting Motor_execution	2
+2025-02-25_172620_169220	 Finished Motor_execution	2
+2025-02-25_172620_169220	 Starting Motor_execution	3
+2025-02-25_172622_313144	 Finished Motor_execution	3
+2025-02-25_172622_313144	 Starting Motor_execution	4
+2025-02-25_172624_247312	 Finished Motor_execution	4
+2025-02-25_172624_247312	 Starting Motor_execution	5
+2025-02-25_172626_331728	 Finished Motor_execution	5
+2025-02-25_172626_331728	 Starting Motor_execution	6
+2025-02-25_172628_155282	 Finished Motor_execution	6
+2025-02-25_172628_155282	 display and wait 2 seconds 
+2025-02-25_172630_158869	Finished block 8
+2025-02-25_172630_162967	Starting block 9
+2025-02-25_172630_165049	Starting REST-9
+2025-02-25_172637_574351	Finished REST-9
+2025-02-25_172637_574351	 Starting Motor_execution	1
+2025-02-25_172639_227792	 Finished Motor_execution	1
+2025-02-25_172639_227792	 Starting Motor_execution	2
+2025-02-25_172641_272434	 Finished Motor_execution	2
+2025-02-25_172641_272434	 Starting Motor_execution	3
+2025-02-25_172643_067612	 Finished Motor_execution	3
+2025-02-25_172643_067612	 Starting Motor_execution	4
+2025-02-25_172645_182589	 Finished Motor_execution	4
+2025-02-25_172645_182589	 Starting Motor_execution	5
+2025-02-25_172647_096152	 Finished Motor_execution	5
+2025-02-25_172647_096152	 Starting Motor_execution	6
+2025-02-25_172648_810755	 Finished Motor_execution	6
+2025-02-25_172648_810755	 display and wait 2 seconds 
+2025-02-25_172650_814024	Finished block 9
+2025-02-25_172650_817380	Starting block 10
+2025-02-25_172650_818888	Starting REST-10
+2025-02-25_172658_232720	Finished REST-10
+2025-02-25_172658_233727	 Starting Motor_execution	1
+2025-02-25_172659_935110	 Finished Motor_execution	1
+2025-02-25_172659_935110	 Starting Motor_execution	2
+2025-02-25_172701_639359	 Finished Motor_execution	2
+2025-02-25_172701_639359	 Starting Motor_execution	3
+2025-02-25_172703_333601	 Finished Motor_execution	3
+2025-02-25_172703_333601	 Starting Motor_execution	4
+2025-02-25_172705_097542	 Finished Motor_execution	4
+2025-02-25_172705_097542	 Starting Motor_execution	5
+2025-02-25_172706_801401	 Finished Motor_execution	5
+2025-02-25_172706_801401	 Starting Motor_execution	6
+2025-02-25_172708_735854	 Finished Motor_execution	6
+2025-02-25_172708_735854	 display and wait 2 seconds 
+2025-02-25_172710_740060	Finished block 10
+2025-02-25_172710_741069	Finished Run 6
+2025-02-25_172710_743087	Asked to continue next Motor tasks Motor_execution 
+2025-02-25_172710_745124	 display and wait 1.0 seconds 
+2025-02-25_172715_416059	User pressed key to continue Motor_execution 
+2025-02-25_172715_420724	Starting Run 7
+2025-02-25_172715_420724	 display and wait 2 seconds 
+2025-02-25_172717_426743	Starting block 1
+2025-02-25_172717_428700	Starting REST-1
+2025-02-25_172724_837450	Finished REST-1
+2025-02-25_172724_837450	 Starting Motor_execution	1
+2025-02-25_172726_684597	 Finished Motor_execution	1
+2025-02-25_172726_684597	 Starting Motor_execution	2
+2025-02-25_172728_388964	 Finished Motor_execution	2
+2025-02-25_172728_388964	 Starting Motor_execution	3
+2025-02-25_172730_383330	 Finished Motor_execution	3
+2025-02-25_172730_383330	 Starting Motor_execution	4
+2025-02-25_172732_317957	 Finished Motor_execution	4
+2025-02-25_172732_317957	 Starting Motor_execution	5
+2025-02-25_172734_322849	 Finished Motor_execution	5
+2025-02-25_172734_322849	 Starting Motor_execution	6
+2025-02-25_172735_977284	 Finished Motor_execution	6
+2025-02-25_172735_977284	 display and wait 2 seconds 
+2025-02-25_172737_981289	Finished block 1
+2025-02-25_172737_985400	Starting block 2
+2025-02-25_172737_987439	Starting REST-2
+2025-02-25_172745_400374	Finished REST-2
+2025-02-25_172745_400374	 Starting Motor_execution	1
+2025-02-25_172747_440821	 Finished Motor_execution	1
+2025-02-25_172747_440821	 Starting Motor_execution	2
+2025-02-25_172749_364457	 Finished Motor_execution	2
+2025-02-25_172749_364457	 Starting Motor_execution	3
+2025-02-25_172751_468138	 Finished Motor_execution	3
+2025-02-25_172751_468138	 Starting Motor_execution	4
+2025-02-25_172753_612578	 Finished Motor_execution	4
+2025-02-25_172753_612578	 Starting Motor_execution	5
+2025-02-25_172755_626602	 Finished Motor_execution	5
+2025-02-25_172755_626602	 display and wait 2 seconds 
+2025-02-25_172757_630006	Finished block 2
+2025-02-25_172757_634128	Starting block 3
+2025-02-25_172757_636156	Starting REST-3
+2025-02-25_172805_049957	Finished REST-3
+2025-02-25_172805_049957	 Starting Motor_execution	1
+2025-02-25_172806_931312	 Finished Motor_execution	1
+2025-02-25_172806_931312	 Starting Motor_execution	2
+2025-02-25_172809_065568	 Finished Motor_execution	2
+2025-02-25_172809_065568	 Starting Motor_execution	3
+2025-02-25_172810_740215	 Finished Motor_execution	3
+2025-02-25_172810_740215	 Starting Motor_execution	4
+2025-02-25_172812_814962	 Finished Motor_execution	4
+2025-02-25_172812_814962	 Starting Motor_execution	5
+2025-02-25_172814_528986	 Finished Motor_execution	5
+2025-02-25_172814_528986	 Starting Motor_execution	6
+2025-02-25_172816_182914	 Finished Motor_execution	6
+2025-02-25_172816_182914	 display and wait 2 seconds 
+2025-02-25_172818_186408	Finished block 3
+2025-02-25_172818_189994	Starting block 4
+2025-02-25_172818_191502	Starting REST-4
+2025-02-25_172825_600382	Finished REST-4
+2025-02-25_172825_600382	 Starting Motor_execution	1
+2025-02-25_172827_531490	 Finished Motor_execution	1
+2025-02-25_172827_531490	 Starting Motor_execution	2
+2025-02-25_172829_575619	 Finished Motor_execution	2
+2025-02-25_172829_575619	 Starting Motor_execution	3
+2025-02-25_172831_449526	 Finished Motor_execution	3
+2025-02-25_172831_449526	 Starting Motor_execution	4
+2025-02-25_172833_433326	 Finished Motor_execution	4
+2025-02-25_172833_433326	 Starting Motor_execution	5
+2025-02-25_172835_407363	 Finished Motor_execution	5
+2025-02-25_172835_407363	 Starting Motor_execution	6
+2025-02-25_172837_391511	 Finished Motor_execution	6
+2025-02-25_172837_391511	 display and wait 2 seconds 
+2025-02-25_172839_395230	Finished block 4
+2025-02-25_172839_398751	Starting block 5
+2025-02-25_172839_400775	Starting REST-5
+2025-02-25_172846_815497	Finished REST-5
+2025-02-25_172846_815497	 Starting Motor_execution	1
+2025-02-25_172848_737869	 Finished Motor_execution	1
+2025-02-25_172848_737869	 Starting Motor_execution	2
+2025-02-25_172850_701743	 Finished Motor_execution	2
+2025-02-25_172850_701743	 Starting Motor_execution	3
+2025-02-25_172852_495866	 Finished Motor_execution	3
+2025-02-25_172852_495866	 Starting Motor_execution	4
+2025-02-25_172854_490611	 Finished Motor_execution	4
+2025-02-25_172854_490611	 Starting Motor_execution	5
+2025-02-25_172856_164695	 Finished Motor_execution	5
+2025-02-25_172856_164695	 Starting Motor_execution	6
+2025-02-25_172858_039080	 Finished Motor_execution	6
+2025-02-25_172858_039080	 display and wait 2 seconds 
+2025-02-25_172900_043137	Finished block 5
+2025-02-25_172900_046293	Starting block 6
+2025-02-25_172900_048823	Starting REST-6
+2025-02-25_172907_465545	Finished REST-6
+2025-02-25_172907_465545	 Starting Motor_execution	1
+2025-02-25_172909_609011	 Finished Motor_execution	1
+2025-02-25_172909_609011	 Starting Motor_execution	2
+2025-02-25_172911_302568	 Finished Motor_execution	2
+2025-02-25_172911_302568	 Starting Motor_execution	3
+2025-02-25_172913_427029	 Finished Motor_execution	3
+2025-02-25_172913_427029	 Starting Motor_execution	4
+2025-02-25_172915_451334	 Finished Motor_execution	4
+2025-02-25_172915_451334	 Starting Motor_execution	5
+2025-02-25_172917_436667	 Finished Motor_execution	5
+2025-02-25_172917_436667	 display and wait 2 seconds 
+2025-02-25_172919_440118	Finished block 6
+2025-02-25_172919_444433	Starting block 7
+2025-02-25_172919_446634	Starting REST-7
+2025-02-25_172926_856135	Finished REST-7
+2025-02-25_172926_856135	 Starting Motor_execution	1
+2025-02-25_172928_701078	 Finished Motor_execution	1
+2025-02-25_172928_701078	 Starting Motor_execution	2
+2025-02-25_172930_845693	 Finished Motor_execution	2
+2025-02-25_172930_845693	 Starting Motor_execution	3
+2025-02-25_172932_609034	 Finished Motor_execution	3
+2025-02-25_172932_609034	 Starting Motor_execution	4
+2025-02-25_172934_542831	 Finished Motor_execution	4
+2025-02-25_172934_542831	 Starting Motor_execution	5
+2025-02-25_172936_327152	 Finished Motor_execution	5
+2025-02-25_172936_327152	 Starting Motor_execution	6
+2025-02-25_172938_071679	 Finished Motor_execution	6
+2025-02-25_172938_071679	 display and wait 2 seconds 
+2025-02-25_172940_075177	Finished block 7
+2025-02-25_172940_078697	Starting block 8
+2025-02-25_172940_080830	Starting REST-8
+2025-02-25_172947_489566	Finished REST-8
+2025-02-25_172947_490577	 Starting Motor_execution	1
+2025-02-25_172949_394461	 Finished Motor_execution	1
+2025-02-25_172949_394461	 Starting Motor_execution	2
+2025-02-25_172951_328826	 Finished Motor_execution	2
+2025-02-25_172951_328826	 Starting Motor_execution	3
+2025-02-25_172953_282737	 Finished Motor_execution	3
+2025-02-25_172953_282737	 Starting Motor_execution	4
+2025-02-25_172955_098334	 Finished Motor_execution	4
+2025-02-25_172955_098334	 Starting Motor_execution	5
+2025-02-25_172957_142216	 Finished Motor_execution	5
+2025-02-25_172957_142216	 Starting Motor_execution	6
+2025-02-25_172958_825860	 Finished Motor_execution	6
+2025-02-25_172958_825860	 display and wait 2 seconds 
+2025-02-25_173000_828737	Finished block 8
+2025-02-25_173000_832832	Starting block 9
+2025-02-25_173000_835151	Starting REST-9
+2025-02-25_173008_249299	Finished REST-9
+2025-02-25_173008_249299	 Starting Motor_execution	1
+2025-02-25_173010_060968	 Finished Motor_execution	1
+2025-02-25_173010_060968	 Starting Motor_execution	2
+2025-02-25_173011_775239	 Finished Motor_execution	2
+2025-02-25_173011_775239	 Starting Motor_execution	3
+2025-02-25_173013_488963	 Finished Motor_execution	3
+2025-02-25_173013_488963	 Starting Motor_execution	4
+2025-02-25_173015_613350	 Finished Motor_execution	4
+2025-02-25_173015_613350	 Starting Motor_execution	5
+2025-02-25_173017_457358	 Finished Motor_execution	5
+2025-02-25_173017_457358	 Starting Motor_execution	6
+2025-02-25_173019_421391	 Finished Motor_execution	6
+2025-02-25_173019_421391	 display and wait 2 seconds 
+2025-02-25_173021_425484	Finished block 9
+2025-02-25_173021_428884	Starting block 10
+2025-02-25_173021_431209	Starting REST-10
+2025-02-25_173028_838898	Finished REST-10
+2025-02-25_173028_839974	 Starting Motor_execution	1
+2025-02-25_173030_914522	 Finished Motor_execution	1
+2025-02-25_173030_914522	 Starting Motor_execution	2
+2025-02-25_173032_979026	 Finished Motor_execution	2
+2025-02-25_173032_979026	 Starting Motor_execution	3
+2025-02-25_173035_123387	 Finished Motor_execution	3
+2025-02-25_173035_123387	 Starting Motor_execution	4
+2025-02-25_173037_197276	 Finished Motor_execution	4
+2025-02-25_173037_197276	 Starting Motor_execution	5
+2025-02-25_173038_921741	 Finished Motor_execution	5
+2025-02-25_173038_921741	 display and wait 2 seconds 
+2025-02-25_173040_925015	Finished block 10
+2025-02-25_173040_927514	Finished Run 7
+2025-02-25_173040_929022	Asked to continue next Motor tasks Motor_execution 
+2025-02-25_173040_930397	 display and wait 1.0 seconds 
+2025-02-25_173044_184181	User pressed key to continue Motor_execution 
+2025-02-25_173044_187774	Starting Run 8
+2025-02-25_173044_187774	 display and wait 2 seconds 
+2025-02-25_173046_194131	Starting block 1
+2025-02-25_173046_196148	Starting REST-1
+2025-02-25_173053_606346	Finished REST-1
+2025-02-25_173053_606346	 Starting Motor_execution	1
+2025-02-25_173055_611178	 Finished Motor_execution	1
+2025-02-25_173055_611178	 Starting Motor_execution	2
+2025-02-25_173057_625522	 Finished Motor_execution	2
+2025-02-25_173057_625522	 Starting Motor_execution	3
+2025-02-25_173059_729197	 Finished Motor_execution	3
+2025-02-25_173059_729197	 Starting Motor_execution	4
+2025-02-25_173101_393692	 Finished Motor_execution	4
+2025-02-25_173101_393692	 Starting Motor_execution	5
+2025-02-25_173103_258552	 Finished Motor_execution	5
+2025-02-25_173103_258552	 Starting Motor_execution	6
+2025-02-25_173105_232496	 Finished Motor_execution	6
+2025-02-25_173105_232496	 display and wait 2 seconds 
+2025-02-25_173107_236100	Finished block 1
+2025-02-25_173107_240249	Starting block 2
+2025-02-25_173107_241872	Starting REST-2
+2025-02-25_173114_650448	Finished REST-2
+2025-02-25_173114_650448	 Starting Motor_execution	1
+2025-02-25_173116_581281	 Finished Motor_execution	1
+2025-02-25_173116_581281	 Starting Motor_execution	2
+2025-02-25_173118_615463	 Finished Motor_execution	2
+2025-02-25_173118_615463	 Starting Motor_execution	3
+2025-02-25_173120_679900	 Finished Motor_execution	3
+2025-02-25_173120_679900	 Starting Motor_execution	4
+2025-02-25_173122_633799	 Finished Motor_execution	4
+2025-02-25_173122_633799	 Starting Motor_execution	5
+2025-02-25_173124_637959	 Finished Motor_execution	5
+2025-02-25_173124_637959	 display and wait 2 seconds 
+2025-02-25_173126_642341	Finished block 2
+2025-02-25_173126_645425	Starting block 3
+2025-02-25_173126_647467	Starting REST-3
+2025-02-25_173134_056950	Finished REST-3
+2025-02-25_173134_056950	 Starting Motor_execution	1
+2025-02-25_173135_932971	 Finished Motor_execution	1
+2025-02-25_173135_932971	 Starting Motor_execution	2
+2025-02-25_173138_026713	 Finished Motor_execution	2
+2025-02-25_173138_026713	 Starting Motor_execution	3
+2025-02-25_173140_120144	 Finished Motor_execution	3
+2025-02-25_173140_120144	 Starting Motor_execution	4
+2025-02-25_173142_224822	 Finished Motor_execution	4
+2025-02-25_173142_224822	 Starting Motor_execution	5
+2025-02-25_173143_958777	 Finished Motor_execution	5
+2025-02-25_173143_958777	 Starting Motor_execution	6
+2025-02-25_173145_703410	 Finished Motor_execution	6
+2025-02-25_173145_703410	 display and wait 2 seconds 
+2025-02-25_173147_707126	Finished block 3
+2025-02-25_173147_711266	Starting block 4
+2025-02-25_173147_712670	Starting REST-4
+2025-02-25_173155_122643	Finished REST-4
+2025-02-25_173155_122643	 Starting Motor_execution	1
+2025-02-25_173157_067598	 Finished Motor_execution	1
+2025-02-25_173157_067598	 Starting Motor_execution	2
+2025-02-25_173159_031780	 Finished Motor_execution	2
+2025-02-25_173159_031780	 Starting Motor_execution	3
+2025-02-25_173200_846237	 Finished Motor_execution	3
+2025-02-25_173200_846237	 Starting Motor_execution	4
+2025-02-25_173202_729952	 Finished Motor_execution	4
+2025-02-25_173202_729952	 Starting Motor_execution	5
+2025-02-25_173204_434373	 Finished Motor_execution	5
+2025-02-25_173204_434373	 Starting Motor_execution	6
+2025-02-25_173206_159116	 Finished Motor_execution	6
+2025-02-25_173206_159116	 display and wait 2 seconds 
+2025-02-25_173208_162846	Finished block 4
+2025-02-25_173208_165968	Starting block 5
+2025-02-25_173208_167986	Starting REST-5
+2025-02-25_173215_583561	Finished REST-5
+2025-02-25_173215_583561	 Starting Motor_execution	1
+2025-02-25_173217_584311	 Finished Motor_execution	1
+2025-02-25_173217_584311	 Starting Motor_execution	2
+2025-02-25_173219_488877	 Finished Motor_execution	2
+2025-02-25_173219_488877	 Starting Motor_execution	3
+2025-02-25_173221_283118	 Finished Motor_execution	3
+2025-02-25_173221_283118	 Starting Motor_execution	4
+2025-02-25_173223_397136	 Finished Motor_execution	4
+2025-02-25_173223_397136	 Starting Motor_execution	5
+2025-02-25_173225_531770	 Finished Motor_execution	5
+2025-02-25_173225_531770	 display and wait 2 seconds 
+2025-02-25_173227_535551	Finished block 5
+2025-02-25_173227_540194	Starting block 6
+2025-02-25_173227_542273	Starting REST-6
+2025-02-25_173234_951353	Finished REST-6
+2025-02-25_173234_951353	 Starting Motor_execution	1
+2025-02-25_173236_631287	 Finished Motor_execution	1
+2025-02-25_173236_631287	 Starting Motor_execution	2
+2025-02-25_173238_715723	 Finished Motor_execution	2
+2025-02-25_173238_715723	 Starting Motor_execution	3
+2025-02-25_173240_371802	 Finished Motor_execution	3
+2025-02-25_173240_371802	 Starting Motor_execution	4
+2025-02-25_173242_296422	 Finished Motor_execution	4
+2025-02-25_173242_296422	 Starting Motor_execution	5
+2025-02-25_173244_209933	 Finished Motor_execution	5
+2025-02-25_173244_209933	 Starting Motor_execution	6
+2025-02-25_173246_164541	 Finished Motor_execution	6
+2025-02-25_173246_164541	 display and wait 2 seconds 
+2025-02-25_173248_168729	Finished block 6
+2025-02-25_173248_171828	Starting block 7
+2025-02-25_173248_174429	Starting REST-7
+2025-02-25_173255_584259	Finished REST-7
+2025-02-25_173255_584259	 Starting Motor_execution	1
+2025-02-25_173257_734626	 Finished Motor_execution	1
+2025-02-25_173257_734626	 Starting Motor_execution	2
+2025-02-25_173259_528913	 Finished Motor_execution	2
+2025-02-25_173259_528913	 Starting Motor_execution	3
+2025-02-25_173301_343541	 Finished Motor_execution	3
+2025-02-25_173301_343541	 Starting Motor_execution	4
+2025-02-25_173303_037060	 Finished Motor_execution	4
+2025-02-25_173303_037060	 Starting Motor_execution	5
+2025-02-25_173304_861881	 Finished Motor_execution	5
+2025-02-25_173304_861881	 Starting Motor_execution	6
+2025-02-25_173306_576233	 Finished Motor_execution	6
+2025-02-25_173306_576233	 display and wait 2 seconds 
+2025-02-25_173308_579799	Finished block 7
+2025-02-25_173308_582844	Starting block 8
+2025-02-25_173308_585118	Starting REST-8
+2025-02-25_173315_999398	Finished REST-8
+2025-02-25_173315_999398	 Starting Motor_execution	1
+2025-02-25_173317_721710	 Finished Motor_execution	1
+2025-02-25_173317_721710	 Starting Motor_execution	2
+2025-02-25_173319_466054	 Finished Motor_execution	2
+2025-02-25_173319_466054	 Starting Motor_execution	3
+2025-02-25_173321_530309	 Finished Motor_execution	3
+2025-02-25_173321_530309	 Starting Motor_execution	4
+2025-02-25_173323_594633	 Finished Motor_execution	4
+2025-02-25_173323_594633	 Starting Motor_execution	5
+2025-02-25_173325_708694	 Finished Motor_execution	5
+2025-02-25_173325_708694	 Starting Motor_execution	6
+2025-02-25_173327_472485	 Finished Motor_execution	6
+2025-02-25_173327_472485	 display and wait 2 seconds 
+2025-02-25_173329_476488	Finished block 8
+2025-02-25_173329_480069	Starting block 9
+2025-02-25_173329_482119	Starting REST-9
+2025-02-25_173336_890330	Finished REST-9
+2025-02-25_173336_890330	 Starting Motor_execution	1
+2025-02-25_173338_644749	 Finished Motor_execution	1
+2025-02-25_173338_644749	 Starting Motor_execution	2
+2025-02-25_173340_429289	 Finished Motor_execution	2
+2025-02-25_173340_429289	 Starting Motor_execution	3
+2025-02-25_173342_503547	 Finished Motor_execution	3
+2025-02-25_173342_503547	 Starting Motor_execution	4
+2025-02-25_173344_597933	 Finished Motor_execution	4
+2025-02-25_173344_597933	 Starting Motor_execution	5
+2025-02-25_173346_552778	 Finished Motor_execution	5
+2025-02-25_173346_552778	 Starting Motor_execution	6
+2025-02-25_173348_617190	 Finished Motor_execution	6
+2025-02-25_173348_617190	 display and wait 2 seconds 
+2025-02-25_173350_621056	Finished block 9
+2025-02-25_173350_625140	Starting block 10
+2025-02-25_173350_627159	Starting REST-10
+2025-02-25_173358_036204	Finished REST-10
+2025-02-25_173358_036204	 Starting Motor_execution	1
+2025-02-25_173359_775141	 Finished Motor_execution	1
+2025-02-25_173359_775141	 Starting Motor_execution	2
+2025-02-25_173401_809003	 Finished Motor_execution	2
+2025-02-25_173401_809003	 Starting Motor_execution	3
+2025-02-25_173403_842905	 Finished Motor_execution	3
+2025-02-25_173403_842905	 Starting Motor_execution	4
+2025-02-25_173405_586954	 Finished Motor_execution	4
+2025-02-25_173405_586954	 Starting Motor_execution	5
+2025-02-25_173407_521022	 Finished Motor_execution	5
+2025-02-25_173407_521022	 Starting Motor_execution	6
+2025-02-25_173409_325140	 Finished Motor_execution	6
+2025-02-25_173409_325140	 display and wait 2 seconds 
+2025-02-25_173411_328683	Finished block 10
+2025-02-25_173411_330780	Finished Run 8
+2025-02-25_173411_332923	Asked to continue next Motor tasks Motor_execution 
+2025-02-25_173411_334963	 display and wait 1.0 seconds 
+2025-02-25_173417_880257	User pressed key to continue Motor_execution 
+2025-02-25_173417_883265	Ending Session 0 - Continuous Motor Tasks (REST-ME-MI)
+2025-02-25_173417_883265	Starting Session 1 - Continuous Motor Tasks (REST-ME & REST-MI)
+2025-02-25_173417_886901	 Trials: Motor_execution 
+2025-02-25_173417_890812	Starting Run 1
+2025-02-25_173417_890812	 display and wait 2 seconds 
+2025-02-25_173419_896294	Starting block 1
+2025-02-25_173419_897356	Starting REST-1
+2025-02-25_173427_316128	Finished REST-1
+2025-02-25_173427_316128	 Starting Motor_execution	1
+2025-02-25_173429_349249	 Finished Motor_execution	1
+2025-02-25_173429_349249	 Starting Motor_execution	2
+2025-02-25_173431_163662	 Finished Motor_execution	2
+2025-02-25_173431_163662	 Starting Motor_execution	3
+2025-02-25_173433_287677	 Finished Motor_execution	3
+2025-02-25_173433_287677	 Starting Motor_execution	4
+2025-02-25_173435_431336	 Finished Motor_execution	4
+2025-02-25_173435_431336	 Starting Motor_execution	5
+2025-02-25_173437_535855	 Finished Motor_execution	5
+2025-02-25_173437_535855	 display and wait 2 seconds 
+2025-02-25_173439_539895	Finished block 1
+2025-02-25_173439_543955	Starting block 2
+2025-02-25_173439_544983	Starting REST-2
+2025-02-25_173446_954448	Finished REST-2
+2025-02-25_173446_955461	 Starting Motor_execution	1
+2025-02-25_173448_692102	 Finished Motor_execution	1
+2025-02-25_173448_692102	 Starting Motor_execution	2
+2025-02-25_173450_655866	 Finished Motor_execution	2
+2025-02-25_173450_655866	 Starting Motor_execution	3
+2025-02-25_173452_460315	 Finished Motor_execution	3
+2025-02-25_173452_460315	 Starting Motor_execution	4
+2025-02-25_173454_134430	 Finished Motor_execution	4
+2025-02-25_173454_134430	 Starting Motor_execution	5
+2025-02-25_173456_058812	 Finished Motor_execution	5
+2025-02-25_173456_058812	 Starting Motor_execution	6
+2025-02-25_173457_752808	 Finished Motor_execution	6
+2025-02-25_173457_752808	 display and wait 2 seconds 
+2025-02-25_173459_756118	Finished block 2
+2025-02-25_173459_759710	Starting block 3
+2025-02-25_173459_761877	Starting REST-3
+2025-02-25_173507_170580	Finished REST-3
+2025-02-25_173507_170580	 Starting Motor_execution	1
+2025-02-25_173509_068849	 Finished Motor_execution	1
+2025-02-25_173509_068849	 Starting Motor_execution	2
+2025-02-25_173510_753271	 Finished Motor_execution	2
+2025-02-25_173510_753271	 Starting Motor_execution	3
+2025-02-25_173512_687073	 Finished Motor_execution	3
+2025-02-25_173512_687073	 Starting Motor_execution	4
+2025-02-25_173514_721237	 Finished Motor_execution	4
+2025-02-25_173514_721237	 Starting Motor_execution	5
+2025-02-25_173516_625177	 Finished Motor_execution	5
+2025-02-25_173516_625177	 Starting Motor_execution	6
+2025-02-25_173518_669573	 Finished Motor_execution	6
+2025-02-25_173518_669573	 display and wait 2 seconds 
+2025-02-25_173520_673647	Finished block 3
+2025-02-25_173520_676893	Starting block 4
+2025-02-25_173520_678944	Starting REST-4
+2025-02-25_173528_087289	Finished REST-4
+2025-02-25_173528_087289	 Starting Motor_execution	1
+2025-02-25_173529_814742	 Finished Motor_execution	1
+2025-02-25_173529_814742	 Starting Motor_execution	2
+2025-02-25_173531_969267	 Finished Motor_execution	2
+2025-02-25_173531_969267	 Starting Motor_execution	3
+2025-02-25_173533_833175	 Finished Motor_execution	3
+2025-02-25_173533_833175	 Starting Motor_execution	4
+2025-02-25_173535_816938	 Finished Motor_execution	4
+2025-02-25_173535_816938	 Starting Motor_execution	5
+2025-02-25_173537_791854	 Finished Motor_execution	5
+2025-02-25_173537_791854	 Starting Motor_execution	6
+2025-02-25_173539_835832	 Finished Motor_execution	6
+2025-02-25_173539_835832	 display and wait 2 seconds 
+2025-02-25_173541_838905	Finished block 4
+2025-02-25_173541_843068	Starting block 5
+2025-02-25_173541_845141	Starting REST-5
+2025-02-25_173549_254455	Finished REST-5
+2025-02-25_173549_254455	 Starting Motor_execution	1
+2025-02-25_173551_331033	 Finished Motor_execution	1
+2025-02-25_173551_331033	 Starting Motor_execution	2
+2025-02-25_173553_115078	 Finished Motor_execution	2
+2025-02-25_173553_115078	 Starting Motor_execution	3
+2025-02-25_173554_879453	 Finished Motor_execution	3
+2025-02-25_173554_879453	 Starting Motor_execution	4
+2025-02-25_173556_893544	 Finished Motor_execution	4
+2025-02-25_173556_893544	 Starting Motor_execution	5
+2025-02-25_173558_758286	 Finished Motor_execution	5
+2025-02-25_173558_758286	 Starting Motor_execution	6
+2025-02-25_173600_502330	 Finished Motor_execution	6
+2025-02-25_173600_502330	 display and wait 2 seconds 
+2025-02-25_173602_506277	Finished block 5
+2025-02-25_173602_510127	Starting block 6
+2025-02-25_173602_512348	Starting REST-6
+2025-02-25_173609_921422	Finished REST-6
+2025-02-25_173609_921422	 Starting Motor_execution	1
+2025-02-25_173611_729115	 Finished Motor_execution	1
+2025-02-25_173611_729115	 Starting Motor_execution	2
+2025-02-25_173613_703151	 Finished Motor_execution	2
+2025-02-25_173613_703151	 Starting Motor_execution	3
+2025-02-25_173615_777174	 Finished Motor_execution	3
+2025-02-25_173615_777174	 Starting Motor_execution	4
+2025-02-25_173617_621000	 Finished Motor_execution	4
+2025-02-25_173617_621000	 Starting Motor_execution	5
+2025-02-25_173619_625287	 Finished Motor_execution	5
+2025-02-25_173619_625287	 Starting Motor_execution	6
+2025-02-25_173621_589030	 Finished Motor_execution	6
+2025-02-25_173621_589030	 display and wait 2 seconds 
+2025-02-25_173623_592853	Finished block 6
+2025-02-25_173623_596358	Starting block 7
+2025-02-25_173623_599040	Starting REST-7
+2025-02-25_173631_016217	Finished REST-7
+2025-02-25_173631_016217	 Starting Motor_execution	1
+2025-02-25_173632_938803	 Finished Motor_execution	1
+2025-02-25_173632_938803	 Starting Motor_execution	2
+2025-02-25_173635_063226	 Finished Motor_execution	2
+2025-02-25_173635_063226	 Starting Motor_execution	3
+2025-02-25_173637_006869	 Finished Motor_execution	3
+2025-02-25_173637_006869	 Starting Motor_execution	4
+2025-02-25_173638_771280	 Finished Motor_execution	4
+2025-02-25_173638_771280	 Starting Motor_execution	5
+2025-02-25_173640_615851	 Finished Motor_execution	5
+2025-02-25_173640_615851	 Starting Motor_execution	6
+2025-02-25_173642_480613	 Finished Motor_execution	6
+2025-02-25_173642_480613	 display and wait 2 seconds 
+2025-02-25_173644_483685	Finished block 7
+2025-02-25_173644_487722	Starting block 8
+2025-02-25_173644_489796	Starting REST-8
+2025-02-25_173651_899038	Finished REST-8
+2025-02-25_173651_899038	 Starting Motor_execution	1
+2025-02-25_173653_912477	 Finished Motor_execution	1
+2025-02-25_173653_912477	 Starting Motor_execution	2
+2025-02-25_173655_816206	 Finished Motor_execution	2
+2025-02-25_173655_816206	 Starting Motor_execution	3
+2025-02-25_173657_600308	 Finished Motor_execution	3
+2025-02-25_173657_600308	 Starting Motor_execution	4
+2025-02-25_173659_654678	 Finished Motor_execution	4
+2025-02-25_173659_654678	 Starting Motor_execution	5
+2025-02-25_173701_609143	 Finished Motor_execution	5
+2025-02-25_173701_609143	 Starting Motor_execution	6
+2025-02-25_173703_473638	 Finished Motor_execution	6
+2025-02-25_173703_473638	 display and wait 2 seconds 
+2025-02-25_173705_477515	Finished block 8
+2025-02-25_173705_481077	Starting block 9
+2025-02-25_173705_482530	Starting REST-9
+2025-02-25_173712_900051	Finished REST-9
+2025-02-25_173712_900051	 Starting Motor_execution	1
+2025-02-25_173715_012330	 Finished Motor_execution	1
+2025-02-25_173715_012330	 Starting Motor_execution	2
+2025-02-25_173716_816256	 Finished Motor_execution	2
+2025-02-25_173716_816256	 Starting Motor_execution	3
+2025-02-25_173718_940113	 Finished Motor_execution	3
+2025-02-25_173718_940113	 Starting Motor_execution	4
+2025-02-25_173720_784589	 Finished Motor_execution	4
+2025-02-25_173720_784589	 Starting Motor_execution	5
+2025-02-25_173722_658653	 Finished Motor_execution	5
+2025-02-25_173722_658653	 Starting Motor_execution	6
+2025-02-25_173724_573839	 Finished Motor_execution	6
+2025-02-25_173724_573839	 display and wait 2 seconds 
+2025-02-25_173726_577632	Finished block 9
+2025-02-25_173726_580195	Starting block 10
+2025-02-25_173726_582498	Starting REST-10
+2025-02-25_173733_998882	Finished REST-10
+2025-02-25_173733_998882	 Starting Motor_execution	1
+2025-02-25_173735_812822	 Finished Motor_execution	1
+2025-02-25_173735_812822	 Starting Motor_execution	2
+2025-02-25_173737_548476	 Finished Motor_execution	2
+2025-02-25_173737_548476	 Starting Motor_execution	3
+2025-02-25_173739_332851	 Finished Motor_execution	3
+2025-02-25_173739_332851	 Starting Motor_execution	4
+2025-02-25_173741_047358	 Finished Motor_execution	4
+2025-02-25_173741_047358	 Starting Motor_execution	5
+2025-02-25_173743_111528	 Finished Motor_execution	5
+2025-02-25_173743_111528	 Starting Motor_execution	6
+2025-02-25_173744_785323	 Finished Motor_execution	6
+2025-02-25_173744_785323	 display and wait 2 seconds 
+2025-02-25_173746_789067	Finished block 10
+2025-02-25_173746_791160	Finished Run 1
+2025-02-25_173746_792660	Asked to continue next Motor tasks Motor_execution 
+2025-02-25_173746_794665	 display and wait 1.0 seconds 
+2025-02-25_173755_159998	User pressed key to continue Motor_execution 
+2025-02-25_173755_164108	Starting Run 2
+2025-02-25_173755_164108	 display and wait 2 seconds 
+2025-02-25_173757_170207	Starting block 1
+2025-02-25_173757_171452	Starting REST-1
+2025-02-25_173804_583059	Finished REST-1
+2025-02-25_173804_583059	 Starting Motor_execution	1
+2025-02-25_173806_475292	 Finished Motor_execution	1
+2025-02-25_173806_475292	 Starting Motor_execution	2
+2025-02-25_173808_388744	 Finished Motor_execution	2
+2025-02-25_173808_388744	 Starting Motor_execution	3
+2025-02-25_173810_452817	 Finished Motor_execution	3
+2025-02-25_173810_452817	 Starting Motor_execution	4
+2025-02-25_173812_347473	 Finished Motor_execution	4
+2025-02-25_173812_347473	 Starting Motor_execution	5
+2025-02-25_173814_461039	 Finished Motor_execution	5
+2025-02-25_173814_461039	 Starting Motor_execution	6
+2025-02-25_173816_355227	 Finished Motor_execution	6
+2025-02-25_173816_355227	 display and wait 2 seconds 
+2025-02-25_173818_358839	Finished block 1
+2025-02-25_173818_364994	Starting block 2
+2025-02-25_173818_366067	Starting REST-2
+2025-02-25_173825_775667	Finished REST-2
+2025-02-25_173825_775667	 Starting Motor_execution	1
+2025-02-25_173827_810427	 Finished Motor_execution	1
+2025-02-25_173827_810427	 Starting Motor_execution	2
+2025-02-25_173829_624500	 Finished Motor_execution	2
+2025-02-25_173829_624500	 Starting Motor_execution	3
+2025-02-25_173831_679093	 Finished Motor_execution	3
+2025-02-25_173831_679093	 Starting Motor_execution	4
+2025-02-25_173833_622975	 Finished Motor_execution	4
+2025-02-25_173833_622975	 Starting Motor_execution	5
+2025-02-25_173835_496833	 Finished Motor_execution	5
+2025-02-25_173835_496833	 Starting Motor_execution	6
+2025-02-25_173837_190643	 Finished Motor_execution	6
+2025-02-25_173837_190643	 display and wait 2 seconds 
+2025-02-25_173839_194112	Finished block 2
+2025-02-25_173839_197151	Starting block 3
+2025-02-25_173839_199680	Starting REST-3
+2025-02-25_173846_616967	Finished REST-3
+2025-02-25_173846_616967	 Starting Motor_execution	1
+2025-02-25_173848_299627	 Finished Motor_execution	1
+2025-02-25_173848_299627	 Starting Motor_execution	2
+2025-02-25_173850_263820	 Finished Motor_execution	2
+2025-02-25_173850_263820	 Starting Motor_execution	3
+2025-02-25_173851_937389	 Finished Motor_execution	3
+2025-02-25_173851_937389	 Starting Motor_execution	4
+2025-02-25_173853_881259	 Finished Motor_execution	4
+2025-02-25_173853_881259	 Starting Motor_execution	5
+2025-02-25_173855_664865	 Finished Motor_execution	5
+2025-02-25_173855_664865	 Starting Motor_execution	6
+2025-02-25_173857_319272	 Finished Motor_execution	6
+2025-02-25_173857_319272	 display and wait 2 seconds 
+2025-02-25_173859_323181	Finished block 3
+2025-02-25_173859_326229	Starting block 4
+2025-02-25_173859_327271	Starting REST-4
+2025-02-25_173906_736601	Finished REST-4
+2025-02-25_173906_736601	 Starting Motor_execution	1
+2025-02-25_173908_845132	 Finished Motor_execution	1
+2025-02-25_173908_845132	 Starting Motor_execution	2
+2025-02-25_173910_719307	 Finished Motor_execution	2
+2025-02-25_173910_719307	 Starting Motor_execution	3
+2025-02-25_173912_503042	 Finished Motor_execution	3
+2025-02-25_173912_503042	 Starting Motor_execution	4
+2025-02-25_173914_606529	 Finished Motor_execution	4
+2025-02-25_173914_606529	 Starting Motor_execution	5
+2025-02-25_173916_260130	 Finished Motor_execution	5
+2025-02-25_173916_260130	 Starting Motor_execution	6
+2025-02-25_173918_204006	 Finished Motor_execution	6
+2025-02-25_173918_204006	 display and wait 2 seconds 
+2025-02-25_173920_208471	Finished block 4
+2025-02-25_173920_212219	Starting block 5
+2025-02-25_173920_214264	Starting REST-5
+2025-02-25_173927_623759	Finished REST-5
+2025-02-25_173927_623759	 Starting Motor_execution	1
+2025-02-25_173929_609284	 Finished Motor_execution	1
+2025-02-25_173929_609284	 Starting Motor_execution	2
+2025-02-25_173931_743720	 Finished Motor_execution	2
+2025-02-25_173931_743720	 Starting Motor_execution	3
+2025-02-25_173933_877668	 Finished Motor_execution	3
+2025-02-25_173933_877668	 Starting Motor_execution	4
+2025-02-25_173935_641848	 Finished Motor_execution	4
+2025-02-25_173935_641848	 Starting Motor_execution	5
+2025-02-25_173937_695716	 Finished Motor_execution	5
+2025-02-25_173937_695716	 display and wait 2 seconds 
+2025-02-25_173939_698869	Finished block 5
+2025-02-25_173939_703513	Starting block 6
+2025-02-25_173939_704793	Starting REST-6
+2025-02-25_173947_117561	Finished REST-6
+2025-02-25_173947_117561	 Starting Motor_execution	1
+2025-02-25_173948_899338	 Finished Motor_execution	1
+2025-02-25_173948_899338	 Starting Motor_execution	2
+2025-02-25_173950_734190	 Finished Motor_execution	2
+2025-02-25_173950_734190	 Starting Motor_execution	3
+2025-02-25_173952_658877	 Finished Motor_execution	3
+2025-02-25_173952_658877	 Starting Motor_execution	4
+2025-02-25_173954_414341	 Finished Motor_execution	4
+2025-02-25_173954_414341	 Starting Motor_execution	5
+2025-02-25_173956_118869	 Finished Motor_execution	5
+2025-02-25_173956_118869	 Starting Motor_execution	6
+2025-02-25_173957_813950	 Finished Motor_execution	6
+2025-02-25_173957_813950	 display and wait 2 seconds 
+2025-02-25_173959_817738	Finished block 6
+2025-02-25_173959_822002	Starting block 7
+2025-02-25_173959_823021	Starting REST-7
+2025-02-25_174007_233259	Finished REST-7
+2025-02-25_174007_234270	 Starting Motor_execution	1
+2025-02-25_174009_065907	 Finished Motor_execution	1
+2025-02-25_174009_065907	 Starting Motor_execution	2
+2025-02-25_174010_840566	 Finished Motor_execution	2
+2025-02-25_174010_840566	 Starting Motor_execution	3
+2025-02-25_174012_804516	 Finished Motor_execution	3
+2025-02-25_174012_804516	 Starting Motor_execution	4
+2025-02-25_174014_918144	 Finished Motor_execution	4
+2025-02-25_174014_918144	 Starting Motor_execution	5
+2025-02-25_174017_042519	 Finished Motor_execution	5
+2025-02-25_174017_042519	 Starting Motor_execution	6
+2025-02-25_174019_167024	 Finished Motor_execution	6
+2025-02-25_174019_167024	 display and wait 2 seconds 
+2025-02-25_174021_170145	Finished block 7
+2025-02-25_174021_174709	Starting block 8
+2025-02-25_174021_175726	Starting REST-8
+2025-02-25_174028_585102	Finished REST-8
+2025-02-25_174028_585102	 Starting Motor_execution	1
+2025-02-25_174030_265923	 Finished Motor_execution	1
+2025-02-25_174030_265923	 Starting Motor_execution	2
+2025-02-25_174031_950291	 Finished Motor_execution	2
+2025-02-25_174031_950291	 Starting Motor_execution	3
+2025-02-25_174033_884385	 Finished Motor_execution	3
+2025-02-25_174033_884385	 Starting Motor_execution	4
+2025-02-25_174035_848497	 Finished Motor_execution	4
+2025-02-25_174035_848497	 Starting Motor_execution	5
+2025-02-25_174037_962079	 Finished Motor_execution	5
+2025-02-25_174037_962079	 Starting Motor_execution	6
+2025-02-25_174039_676396	 Finished Motor_execution	6
+2025-02-25_174039_676396	 display and wait 2 seconds 
+2025-02-25_174041_680109	Finished block 8
+2025-02-25_174041_683156	Starting block 9
+2025-02-25_174041_684187	Starting REST-9
+2025-02-25_174049_101567	Finished REST-9
+2025-02-25_174049_101567	 Starting Motor_execution	1
+2025-02-25_174051_122606	 Finished Motor_execution	1
+2025-02-25_174051_122606	 Starting Motor_execution	2
+2025-02-25_174052_886282	 Finished Motor_execution	2
+2025-02-25_174052_886282	 Starting Motor_execution	3
+2025-02-25_174055_040605	 Finished Motor_execution	3
+2025-02-25_174055_040605	 Starting Motor_execution	4
+2025-02-25_174056_705274	 Finished Motor_execution	4
+2025-02-25_174056_705274	 Starting Motor_execution	5
+2025-02-25_174058_449377	 Finished Motor_execution	5
+2025-02-25_174058_449377	 Starting Motor_execution	6
+2025-02-25_174100_553904	 Finished Motor_execution	6
+2025-02-25_174100_553904	 display and wait 2 seconds 
+2025-02-25_174102_557243	Finished block 9
+2025-02-25_174102_560818	Starting block 10
+2025-02-25_174102_563173	Starting REST-10
